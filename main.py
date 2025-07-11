@@ -10,14 +10,6 @@ import logging
 logger = logging.getLogger("uvicorn.error")
 app = FastAPI()
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # можно указать конкретно твой github.io
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
 # Абсолютные пути
 SITE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 BACKEND_DIR = os.path.join(SITE_DIR, "backend")
@@ -33,6 +25,13 @@ RECENT_JSON = os.path.join(DATA_DIR, "recent.json")
 
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # можно указать конкретно твой github.io
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 def normalize_theme(theme):
     return theme.strip().lower() if theme else None
