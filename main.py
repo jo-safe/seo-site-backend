@@ -11,7 +11,7 @@ logger = logging.getLogger("uvicorn.error")
 app = FastAPI()
 
 # Абсолютные пути
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 
 # Файлы
