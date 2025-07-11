@@ -1,0 +1,12 @@
+[
+  { "slug": "relationship", "name": "Семья и отношения" },
+  { "slug": "health", "name": "Здоровье" },
+  { "slug": "food", "name": "Питание и кулинария" },
+  { "slug": "finance", "name": "Деньги и финансы" },
+  { "slug": "law", "name": "Законы и документы" },
+  { "slug": "routine", "name": "Быт и повседневная жизнь" },
+  { "slug": "beautiness", "name": "Красота и уход" },
+  { "slug": "repair", "name": "Дом и ремонт" },
+  { "slug": "tech", "name": "Гатжеты и техника" },
+  { "slug": "other", "name": "Разное" }
+]

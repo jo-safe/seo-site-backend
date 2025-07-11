@@ -1,0 +1,169 @@
+from fastapi import FastAPI, HTTPException, Query
+from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
+import os
+import json
+import random
+import logging
+
+logger = logging.getLogger("uvicorn.error")
+app = FastAPI()
+
+# Абсолютные пути
+SITE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+BACKEND_DIR = os.path.join(SITE_DIR, "backend")
+STATIC_DIR = os.path.join(SITE_DIR, "static")
+DATA_DIR = os.path.join(BACKEND_DIR, "data")
+ARTICLES_DIR = os.path.join(STATIC_DIR, "articles")
+IMAGES_DIR = os.path.join(STATIC_DIR, "images")
+
+# Файлы
+ARTICLES_JSON = os.path.join(DATA_DIR, "articles.json")
+THEMES_JSON = os.path.join(DATA_DIR, "themes.json")
+RECENT_JSON = os.path.join(DATA_DIR, "recent.json")
+
+app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+
+
+def normalize_theme(theme):
+    return theme.strip().lower() if theme else None
+
+
+def get_all_articles():
+    if not os.path.exists(ARTICLES_JSON):
+        logger.warning("articles.json не найден")
+        return []
+    try:
+        with open(ARTICLES_JSON, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as e:
+        logger.error(f"Ошибка чтения articles.json: {e}")
+        return []
+
+
+@app.get("/api/article")
+async def get_article(slug: str):
+    path = os.path.join(ARTICLES_DIR, f"{slug}.html")
+    if not os.path.exists(path):
+        raise HTTPException(status_code=404, detail="Статья не найдена")
+    return {"slug": slug, "exists": True}
+
+
+@app.get("/api/themes")
+async def get_themes():
+    if not os.path.exists(THEMES_JSON):
+        return []
+    with open(THEMES_JSON, encoding="utf-8") as f:
+        return json.load(f)
+
+
+@app.get("/api/recent_articles")
+async def get_recent_articles():
+    if not os.path.exists(RECENT_JSON):
+        return []
+    with open(RECENT_JSON, encoding="utf-8") as f:
+        return json.load(f)
+
+
+@app.get("/api/random_articles")
+def get_random_articles(count: int = 9, theme: str = Query(None)):
+    all_articles = get_all_articles()
+    if not all_articles:
+        return JSONResponse(status_code=500, content={"error": "Список статей пуст или недоступен"})
+
+    theme = normalize_theme(theme)
+    if theme:
+        filtered = [a for a in all_articles if normalize_theme(a.get("theme")) == theme]
+    else:
+        filtered = all_articles
+
+    if not filtered:
+        return []
+
+    chosen = random.sample(filtered, min(count, len(filtered)))
+    result = []
+
+    for a in chosen:
+        image = a.get("image")
+        if not image or not os.path.exists(os.path.join(SITE_DIR, image.replace("/", os.sep))):
+            image = "/static/images/default.jpg"
+        else:
+            image = "/" + image.replace("\\", "/").lstrip("/")
+
+        result.append({
+            "slug": a["slug"],
+            "title": a["title"].strip('"'),
+            "theme": a.get("theme"),
+            "intro": a.get("intro", "Описание недоступно"),
+            "image": image
+        })
+
+    return result
+
+
+@app.get("/api/look_for_articles")
+def look_for_articles(q: str):
+    all_articles = get_all_articles()
+    if not q:
+        return []
+    q = q.lower()
+    result = [a for a in all_articles if q in a.get("title", "").lower() or q in a.get("intro", "").lower()]
+    return result
+
+
+@app.get("/api/similar_articles")
+def get_similar_articles(slug: str, limit: int = 3):
+    if not os.path.exists(ARTICLES_JSON):
+        return JSONResponse(status_code=500, content={"error": "articles.json не найден"})
+
+    try:
+        with open(ARTICLES_JSON, "r", encoding="utf-8") as f:
+            articles = json.load(f)
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": "Ошибка чтения articles.json"})
+
+    base_article = next((a for a in articles if a["slug"] == slug), None)
+    if not base_article:
+        return JSONResponse(status_code=404, content={"error": "Статья не найдена"})
+
+    base_keywords = set(map(str.lower, base_article.get("keywords", [])))
+    similar = []
+
+    # Ищем похожие
+    if base_keywords:
+        for a in articles:
+            if a["slug"] == slug:
+                continue
+            article_keywords = set(map(str.lower, a.get("keywords", [])))
+            if base_keywords.intersection(article_keywords):
+                similar.append(a)
+
+    # Если похожих меньше limit, добавляем рандомные
+    if len(similar) < limit:
+        needed = limit - len(similar)
+        # Исключаем уже выбранные и базовую статью
+        excluded_slugs = {slug} | {a["slug"] for a in similar}
+        candidates = [a for a in articles if a["slug"] not in excluded_slugs]
+        random_articles = random.sample(candidates, min(needed, len(candidates)))
+        similar.extend(random_articles)
+
+    similar = similar[:limit]
+
+    # Формируем ответ
+    result = []
+    for article in similar:
+        image_path = article.get("image")
+        if not image_path or not os.path.exists(os.path.join(SITE_DIR, image_path.replace("/", os.sep))):
+            image_path = "/static/images/default.jpg"
+        else:
+            filename = os.path.basename(image_path)
+            image_path = f"/static/images/{filename}"
+
+        result.append({
+            "slug": article["slug"],
+            "title": article["title"].strip('"'),
+            "intro": article.get("intro", "Краткое описание недоступно"),
+            "image": image_path
+        })
+
+    return result
