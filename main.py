@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
+from fastapi.middleware.cors import CORSMiddleware
 import os
 import json
 import random
@@ -8,6 +9,14 @@ import logging
 
 logger = logging.getLogger("uvicorn.error")
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # можно указать конкретно твой github.io
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Абсолютные пути
 SITE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
