@@ -11,19 +11,13 @@ logger = logging.getLogger("uvicorn.error")
 app = FastAPI()
 
 # Абсолютные пути
-SITE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-BACKEND_DIR = os.path.join(SITE_DIR, "backend")
-STATIC_DIR = os.path.join(SITE_DIR, "static")
-DATA_DIR = os.path.join(BACKEND_DIR, "data")
-ARTICLES_DIR = os.path.join(STATIC_DIR, "articles")
-IMAGES_DIR = os.path.join(STATIC_DIR, "images")
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+DATA_DIR = os.path.join(BASE_DIR, "data")
 
 # Файлы
 ARTICLES_JSON = os.path.join(DATA_DIR, "articles.json")
 THEMES_JSON = os.path.join(DATA_DIR, "themes.json")
 RECENT_JSON = os.path.join(DATA_DIR, "recent.json")
-
-app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 
 app.add_middleware(
     CORSMiddleware,
@@ -47,14 +41,6 @@ def get_all_articles():
     except Exception as e:
         logger.error(f"Ошибка чтения articles.json: {e}")
         return []
-
-
-@app.get("/api/article")
-async def get_article(slug: str):
-    path = os.path.join(ARTICLES_DIR, f"{slug}.html")
-    if not os.path.exists(path):
-        raise HTTPException(status_code=404, detail="Статья не найдена")
-    return {"slug": slug, "exists": True}
 
 
 @app.get("/api/themes")
@@ -93,8 +79,8 @@ def get_random_articles(count: int = 9, theme: str = Query(None)):
 
     for a in chosen:
         image = a.get("image")
-        if not image or not os.path.exists(os.path.join(SITE_DIR, image.replace("/", os.sep))):
-            image = "/static/images/default.jpg"
+        if not image or not os.path.exists(os.path.join(BASE_DIR, image.replace("/", os.sep))):
+            image = "images/default.jpg"
         else:
             image = "/" + image.replace("\\", "/").lstrip("/")
 
@@ -161,11 +147,11 @@ def get_similar_articles(slug: str, limit: int = 3):
     result = []
     for article in similar:
         image_path = article.get("image")
-        if not image_path or not os.path.exists(os.path.join(SITE_DIR, image_path.replace("/", os.sep))):
-            image_path = "/static/images/default.jpg"
+        if not image_path or not os.path.exists(os.path.join(BASE_DIR, image_path.replace("/", os.sep))):
+            image_path = "images/default.jpg"
         else:
             filename = os.path.basename(image_path)
-            image_path = f"/static/images/{filename}"
+            image_path = f"images/{filename}"
 
         result.append({
             "slug": article["slug"],
