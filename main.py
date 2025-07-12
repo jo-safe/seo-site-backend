@@ -21,7 +21,7 @@ RECENT_JSON = os.path.join(DATA_DIR, "recent.json")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # можно указать конкретно твой github.io
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -52,15 +52,19 @@ async def get_themes():
 
 
 @app.get("/api/recent_articles")
-async def get_recent_articles():
+async def get_recent_articles(count: int = 9, except_articles: list[int] = Query(default=[])):
     if not os.path.exists(RECENT_JSON):
         return []
     with open(RECENT_JSON, encoding="utf-8") as f:
-        return json.load(f)
+        articles = json.load(f)
+
+    filtered = [a for a in articles if a.get("id") not in except_articles]
+    selected = random.sample(filtered, min(count, len(filtered)))
+    return selected
 
 
 @app.get("/api/random_articles")
-def get_random_articles(count: int = 9, theme: str = Query(None)):
+def get_random_articles(count: int = 9, theme: str = Query(None), except_articles: list[int] = Query(default=[])):
     all_articles = get_all_articles()
     if not all_articles:
         return JSONResponse(status_code=500, content={"error": "Список статей пуст или недоступен"})
@@ -70,6 +74,8 @@ def get_random_articles(count: int = 9, theme: str = Query(None)):
         filtered = [a for a in all_articles if normalize_theme(a.get("theme")) == theme]
     else:
         filtered = all_articles
+
+    filtered = [a for a in filtered if a.get("id") not in except_articles]
 
     if not filtered:
         return []
@@ -96,17 +102,18 @@ def get_random_articles(count: int = 9, theme: str = Query(None)):
 
 
 @app.get("/api/look_for_articles")
-def look_for_articles(q: str):
+def look_for_articles(q: str, count: int = 9, except_articles: list[int] = Query(default=[])):
     all_articles = get_all_articles()
     if not q:
         return []
     q = q.lower()
     result = [a for a in all_articles if q in a.get("title", "").lower() or q in a.get("intro", "").lower()]
-    return result
+    result = [a for a in result if a.get("id") not in except_articles]
+    return result[:count]
 
 
 @app.get("/api/similar_articles")
-def get_similar_articles(slug: str, limit: int = 3):
+def get_similar_articles(slug: str, limit: int = 3, except_articles: list[int] = Query(default=[])):
     if not os.path.exists(ARTICLES_JSON):
         return JSONResponse(status_code=500, content={"error": "articles.json не найден"})
 
@@ -126,7 +133,7 @@ def get_similar_articles(slug: str, limit: int = 3):
     # Ищем похожие
     if base_keywords:
         for a in articles:
-            if a["slug"] == slug:
+            if a["slug"] == slug or a.get("id") in except_articles:
                 continue
             article_keywords = set(map(str.lower, a.get("keywords", [])))
             if base_keywords.intersection(article_keywords):
@@ -135,15 +142,13 @@ def get_similar_articles(slug: str, limit: int = 3):
     # Если похожих меньше limit, добавляем рандомные
     if len(similar) < limit:
         needed = limit - len(similar)
-        # Исключаем уже выбранные и базовую статью
         excluded_slugs = {slug} | {a["slug"] for a in similar}
-        candidates = [a for a in articles if a["slug"] not in excluded_slugs]
+        candidates = [a for a in articles if a["slug"] not in excluded_slugs and a.get("id") not in except_articles]
         random_articles = random.sample(candidates, min(needed, len(candidates)))
         similar.extend(random_articles)
 
     similar = similar[:limit]
 
-    # Формируем ответ
     result = []
     for article in similar:
         image_path = article.get("image")
