@@ -95,6 +95,7 @@ def get_random_articles(count: int = 9, theme: str = Query(None), except_article
             "title": a["title"].strip('"'),
             "theme": a.get("theme"),
             "intro": a.get("intro", "Описание недоступно"),
+            "id" : a.get("id"),
             "image": image
         })
 
