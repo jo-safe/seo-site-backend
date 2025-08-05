@@ -1,27 +1,21 @@
 [
   {
-    "slug": "chto-nuzhno-dlja-otkrytija-ip",
-    "title": "Что нужно для открытия ИП",
-    "intro": "Открытие индивидуального предпринимательства (ИП) – это один из самых простых способов начать свой бизнес. Но и здесь есть свои сложности. Для того, чтобы вы их поняли и не совершили ошибок, мы подготовили список всех необходимых для регистрации документов.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\chto-nuzhno-dlja-otkrytija-ip.webp"
-  },
-  {
     "slug": "chto-prigotovit-bystro-i-vkusno-40-idej-na-uzhin",
     "title": "Что приготовить быстро и вкусно: 40 идей на ужин",
     "intro": "От простых блюд на сковороде до оригинальных запеканок в духовке.",
     "image": "D:\\site\\seo-site\\frontend\\images\\chto-prigotovit-bystro-i-vkusno-40-idej-na-uzhin.webp"
   },
   {
-    "slug": "gde-besplatno-skachat-muzyku-i-sdelat-prezentatsiju",
-    "title": "Где бесплатно скачать музыку и сделать презентацию",
-    "intro": "Поиск музыкального сопровождения для презентаций, слайд-шоу, видеороликов — это нелёгкая задача. Тем более, если вы хотите сделать презентацию не только эффектной, но и профессиональной. В этом случае лучше использовать лицензионную музыку, а не то, что находит поисковик в ответ на ваш запрос.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\gde-besplatno-skachat-muzyku-i-sdelat-prezentatsiju.webp"
+    "slug": "kak-lechit-tsistit-esli-vy-beremenny",
+    "title": "Как лечить цистит, если вы беременны",
+    "intro": "Есть несколько способов облегчить состояние. Но главное — не заниматься самолечением.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kak-lechit-tsistit-esli-vy-beremenny.webp"
   },
   {
-    "slug": "ivan-vasilevich-menjaet-professiju-kachestvo",
-    "title": "Иван Васильевич меняет профессию: качество",
-    "intro": "Как не раз было сказано в «Иване Васильевиче меняет профессию», «любой ценой». Качество, как известно, дорого. А вот что это за качество и почему оно так важно — не так-то просто понять. В этой статье мы попытаемся разобраться в этом вопросе, который, впрочем, очень актуален.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\ivan-vasilevich-menjaet-professiju-kachestvo.webp"
+    "slug": "kak-nauchitsja-risovat",
+    "title": "Как научиться рисовать",
+    "intro": "Мы поговорили с иллюстратором и преподавателем рисунка Ириной Воробьёвой о том, как начать рисовать и как можно быстро научиться создавать красивые изображения.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kak-nauchitsja-risovat.webp"
   },
   {
     "slug": "kak-ostavit-otzyv-na-avito-ob-usluge-i-kak-na-nego-otvetit",
@@ -30,33 +24,39 @@
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-ostavit-otzyv-na-avito-ob-usluge-i-kak-na-nego-otvetit.webp"
   },
   {
-    "slug": "kak-rabotaet-protsent-i-kak-ego-poschitat-v-excel",
-    "title": "Как работает процент и как его посчитать в Excel",
-    "intro": "Всё о процентном значении и его расчёте.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\kak-rabotaet-protsent-i-kak-ego-poschitat-v-excel.webp"
+    "slug": "kak-uznat-balans-karty-riv-gosh",
+    "title": "Как узнать баланс карты Riv Gosh",
+    "intro": "О том, как быстро и просто проверить баланс карты Riv Gosh, расскажет наш эксперт.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kak-uznat-balans-karty-riv-gosh.webp"
   },
   {
-    "slug": "pochemu-ne-skachivaetsja-prilozhenie-ne-vkljuchaetsja-ajfon-i-ne-zarjazhaetsja-podkljuchennyj",
-    "title": "Почему не скачивается приложение, не включается айфон и не заряжается подключённый",
-    "intro": "Поговорим о том, почему телефон не реагирует на ваши действия и как это исправить.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-ne-skachivaetsja-prilozhenie-ne-vkljuchaetsja-ajfon-i-ne-zarjazhaetsja-podkljuchennyj.webp"
+    "slug": "kurs-dollara-k-tenge-v-obmennikah-almaty-i-astany",
+    "title": "Курс доллара к тенге в обменниках Алматы и Астаны",
+    "intro": "Мы собрали информацию о курсе доллара в обменниках Алматы и Астаны на 26 августа 2019 года.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kurs-dollara-k-tenge-v-obmennikah-almaty-i-astany.webp"
   },
   {
-    "slug": "pochemu-opuhajut-veki",
-    "title": "Почему опухают веки",
-    "intro": "Отек может быть признаком аллергии, инфекции, а иногда — более серьёзного заболевания.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-opuhajut-veki.webp"
+    "slug": "kurs-tseny-na-neft-segodnja-1499",
+    "title": "Курс цены на нефть: сегодня 14,99",
+    "intro": "Нефть на рынке за сегодня.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kurs-tseny-na-neft-segodnja-1499.webp"
   },
   {
-    "slug": "pochemu-u-menja-vyletaet-gta-5-kogda-ja-pytajus-vyzvat-madzhestik",
-    "title": "Почему у меня вылетает GTA 5, когда я пытаюсь вызвать Маджестик",
-    "intro": "Проблема, которая, судя по всему, затрагивает не только вас.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-u-menja-vyletaet-gta-5-kogda-ja-pytajus-vyzvat-madzhestik.webp"
+    "slug": "pochemu-u-menja-postojanno-merznut-nogi",
+    "title": "Почему у меня постоянно мерзнут ноги",
+    "intro": "Всё дело в неправильной обуви, но есть и другие причины.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-u-menja-postojanno-merznut-nogi.webp"
   },
   {
     "slug": "pochemu-v-telegrame-ne-slyshno-zvonok-a-ne-vidno-kto-zvonit",
     "title": "Почему в Телеграме не слышно звонок, а не видно, кто звонит",
     "intro": "Проще было бы видеть имя звонящего, но есть и недостатки.",
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-v-telegrame-ne-slyshno-zvonok-a-ne-vidno-kto-zvonit.webp"
+  },
+  {
+    "slug": "pochemu-vypadajut-volosy-na-golove-u-zhenschin-i-kak-eto-ostanovit-vkusnye-i-poleznye-retsepty-iz-kabachkov",
+    "title": "Почему выпадают волосы на голове у женщин и как это остановить: вкусные и полезные рецепты из кабачков",
+    "intro": "Волосы — это не только важная часть нашей внешности, но и показатель нашего здоровья. Обычная потеря волос не должна вызывать тревогу, но если вы замечаете, что у вас выпадает больше, чем обычно, или волосы стали тонкими, слабыми и редкими, пора обратить на это внимание.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-vypadajut-volosy-na-golove-u-zhenschin-i-kak-eto-ostanovit-vkusnye-i-poleznye-retsepty-iz-kabachkov.webp"
   }
 ]
