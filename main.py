@@ -95,6 +95,7 @@ def get_random_articles(count: int = 9, theme: str = Query(None), except_article
             "title": a["title"].strip('"'),
             "theme": a.get("theme"),
             "intro": a.get("intro", "Описание недоступно"),
+            "id" : a.get("id"),
             "image": image
         })
 
@@ -106,10 +107,20 @@ def look_for_articles(q: str, count: int = 9, except_articles: list[int] = Query
     all_articles = get_all_articles()
     if not q:
         return []
+    
     q = q.lower()
-    result = [a for a in all_articles if q in a.get("title", "").lower() or q in a.get("intro", "").lower()]
-    result = [a for a in result if a.get("id") not in except_articles]
+
+    def matches(article):
+        title = article.get("title", "").lower()
+        intro = article.get("intro", "").lower()
+        keywords = article.get("keywords", [])
+        keywords_str = " ".join(keywords).lower() if isinstance(keywords, list) else ""
+        return q in title or q in intro or q in keywords_str
+
+    result = [a for a in all_articles if matches(a) and a.get("id") not in except_articles]
+
     return result[:count]
+
 
 
 @app.get("/api/similar_articles")

@@ -1,12 +1,14 @@
 [
-  { "slug": "relationship", "name": "Семья и отношения" },
-  { "slug": "health", "name": "Здоровье" },
-  { "slug": "food", "name": "Питание и кулинария" },
-  { "slug": "finance", "name": "Деньги и финансы" },
-  { "slug": "law", "name": "Законы и документы" },
-  { "slug": "routine", "name": "Быт и повседневная жизнь" },
-  { "slug": "beautiness", "name": "Красота и уход" },
-  { "slug": "repair", "name": "Дом и ремонт" },
-  { "slug": "tech", "name": "Гатжеты и техника" },
-  { "slug": "other", "name": "Разное" }
+  { "slug": "life", "name": "Образ жизни" },
+  { "slug": "work", "name": "Работа и учёба" },
+  { "slug": "lifehacks", "name": "Советы и лайфхаки" },
+  { "slug": "devices", "name": "Гаджеты и устройства" },
+  { "slug": "technologies", "name": "Технологии и интернет" },
+  { "slug": "food", "name": "Еда и дом" },
+  { "slug": "sport", "name": "Спорт и здоровье" },
+  { "slug": "travelling", "name": "Путешествия" },
+  { "slug": "auto", "name": "Авто" },
+  { "slug": "art", "name": "Развлечения и искусство" },
+  { "slug": "law", "name": "Право и финансы" },
+  { "slug": "news", "name": "Новости" }
 ]

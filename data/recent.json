@@ -1,14 +1,50 @@
 [
   {
-    "slug": "holetsistit-i-pankreatit-chto-eto-takoe-i-v-chem-raznitsa",
-    "title": "\"Холецистит и панкреатит: что это такое и в чем разница\"",
-    "intro": "Знаешь, что общего у боли в животе, тошноты и проблем с едой? Все это могут быть сигналы о заболеваниях, как холецистит и панкреатит. Понимание разницы между этими двумя болезнями может помочь тебе обратиться за помощью вовремя! Итак, давай разберемся, что это такое и в чем их разница.",
-    "image": "/static/images/holetsistit-i-pankreatit-chto-eto-takoe-i-v-chem-raznitsa.jpg"
+    "slug": "chto-znachit-slovo-znachaschee",
+    "title": "Что значит слово «значащее»?",
+    "intro": "В русском языке много слов, которые имеют не один, а несколько значений. Это не всегда понятно, и мы решили разобраться в одном из таких случаев.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\chto-znachit-slovo-znachaschee.webp"
   },
   {
-    "slug": "pankreatit-i-dieta-chto-nuzhno-znat",
-    "title": "\"Панкреатит и диета: что нужно знать\"",
-    "intro": "Если ты столкнулся с такой проблемой, как панкреатит, то, скорее всего, тебе придется изменить свои привычки в питании. Это может показаться сложным, но мы здесь, чтобы помочь тебе разобраться в этом!",
-    "image": "/static/images/pankreatit-i-dieta-chto-nuzhno-znat.jpg"
+    "slug": "gde-poguljat-v-kazani",
+    "title": "Где погулять в Казани",
+    "intro": "Казань — один из самых красивых городов России, где смешались восточные и западные традиции. Здесь есть множество интересных мест, куда стоит отправиться в путешествие.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\gde-poguljat-v-kazani.webp"
+  },
+  {
+    "slug": "gde-vkusno-poest-v-nizhnem-novgorode",
+    "title": "Где вкусно поесть в Нижнем Новгороде",
+    "intro": "Мы часто говорим, что Нижний Новгород — город с богатой историей, город контрастов, город-мост. Но, по правде говоря, не всегда вспоминаем о том, что он также является городом-кухней. Ведь именно здесь можно попробовать блюда, которые не встретишь больше нигде.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\gde-vkusno-poest-v-nizhnem-novgorode.webp"
+  },
+  {
+    "slug": "ivan-vasilevich-menjaet-professiju-kachestvo",
+    "title": "Иван Васильевич меняет профессию: качество",
+    "intro": "Как не раз было сказано в «Иване Васильевиче меняет профессию», «любой ценой». Качество, как известно, дорого. А вот что это за качество и почему оно так важно — не так-то просто понять. В этой статье мы попытаемся разобраться в этом вопросе, который, впрочем, очень актуален.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\ivan-vasilevich-menjaet-professiju-kachestvo.webp"
+  },
+  {
+    "slug": "kak-nastroit-chastotu-operativnoj-pamjati-v-bios",
+    "title": "Как настроить частоту оперативной памяти в BIOS",
+    "intro": "Увеличение частоты оперативной памяти, как и любого другого компонента компьютера, может значительно повысить производительность системы. Однако для этого необходимо знать как минимум базовые параметры оперативной памяти и BIOS. ",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kak-nastroit-chastotu-operativnoj-pamjati-v-bios.webp"
+  },
+  {
+    "slug": "kak-nastroit-vpn-po-protokolu-ikev2-na-android",
+    "title": "Как настроить VPN по протоколу IKEv2 на Android",
+    "intro": "Этот протокол позволяет безопасно обходить блокировки и работать в условиях нестабильного интернета.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kak-nastroit-vpn-po-protokolu-ikev2-na-android.webp"
+  },
+  {
+    "slug": "kurs-dollara-k-tenge-v-obmennikah-almaty-i-astany",
+    "title": "Курс доллара к тенге в обменниках Алматы и Астаны",
+    "intro": "Мы собрали информацию о курсе доллара в обменниках Алматы и Астаны на 26 августа 2019 года.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kurs-dollara-k-tenge-v-obmennikah-almaty-i-astany.webp"
+  },
+  {
+    "slug": "pochemu-u-menja-vyletaet-gta-5-kogda-ja-pytajus-vyzvat-madzhestik",
+    "title": "Почему у меня вылетает GTA 5, когда я пытаюсь вызвать Маджестик",
+    "intro": "Проблема, которая, судя по всему, затрагивает не только вас.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-u-menja-vyletaet-gta-5-kogda-ja-pytajus-vyzvat-madzhestik.webp"
   }
 ]
