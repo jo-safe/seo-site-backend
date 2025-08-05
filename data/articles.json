@@ -6,7 +6,7 @@
     "keywords": [
       "ключевые слова:"
     ],
-    "theme": "auto",
+    "theme": "food",
     "image": "D:\\site\\seo-site\\frontend\\images\\chto-nuzhno-dlja-otkrytija-ip.webp"
   },
   {
@@ -26,7 +26,7 @@
       "быстрые рецепты",
       "быстрые"
     ],
-    "theme": "auto",
+    "theme": "life",
     "image": "D:\\site\\seo-site\\frontend\\images\\chto-prigotovit-bystro-i-vkusno-40-idej-na-uzhin.webp"
   },
   {
@@ -92,7 +92,7 @@
       "услуги",
       "регистрация"
     ],
-    "theme": "law",
+    "theme": "work",
     "image": "D:\\site\\seo-site\\frontend\\images\\gde-delajut-snils-novorozhdennomu-rebenku.webp"
   },
   {
@@ -115,7 +115,7 @@
       "активные зоны",
       "детские"
     ],
-    "theme": "sport",
+    "theme": "devices",
     "image": "D:\\site\\seo-site\\frontend\\images\\gde-poguljat-v-kazani.webp"
   },
   {
@@ -135,7 +135,7 @@
       "столовые",
       "кафетерии"
     ],
-    "theme": "news",
+    "theme": "law",
     "image": "D:\\site\\seo-site\\frontend\\images\\gde-vkusno-poest-v-nizhnem-novgorode.webp"
   },
   {
@@ -159,7 +159,7 @@
       "лучшие профессии",
       "профессиональные"
     ],
-    "theme": "work",
+    "theme": "news",
     "image": "D:\\site\\seo-site\\frontend\\images\\ivan-vasilevich-menjaet-professiju-kachestvo.webp"
   },
   {
@@ -180,7 +180,7 @@
       "при беременности",
       "у беременных"
     ],
-    "theme": "sport",
+    "theme": "devices",
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-lechit-tsistit-esli-vy-beremenny.webp"
   },
   {
@@ -195,7 +195,7 @@
       "после наращивания",
       "настройка био"
     ],
-    "theme": "art",
+    "theme": "technologies",
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-nastroit-chastotu-operativnoj-pamjati-v-bios.webp"
   },
   {
@@ -242,7 +242,7 @@
       "стиль",
       "перспектива"
     ],
-    "theme": "auto",
+    "theme": "law",
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-nauchitsja-risovat.webp"
   },
   {
@@ -262,7 +262,7 @@
       "примеры отзывов",
       "примеры отзы"
     ],
-    "theme": "sport",
+    "theme": "work",
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-ostavit-otzyv-na-avito-ob-usluge-i-kak-na-nego-otvetit.webp"
   },
   {
@@ -303,7 +303,7 @@
       "функции excel",
       "графики в"
     ],
-    "theme": "news",
+    "theme": "devices",
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-rabotaet-protsent-i-kak-ego-poschitat-v-excel.webp"
   },
   {
@@ -331,7 +331,7 @@
       "приключения",
       "прогулки"
     ],
-    "theme": "food",
+    "theme": "life",
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-razvlech-druga-esli-emu-skuchno.webp"
   },
   {
@@ -350,7 +350,7 @@
       "ритейл",
       "гош рив"
     ],
-    "theme": "news",
+    "theme": "work",
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-uznat-balans-karty-riv-gosh.webp"
   },
   {
@@ -373,7 +373,7 @@
       "- кнопка",
       "- экстренные"
     ],
-    "theme": "work",
+    "theme": "auto",
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-vykljuchit-iphone.webp"
   },
   {
@@ -393,7 +393,7 @@
       "текущий курс",
       "обменные пункты"
     ],
-    "theme": "technologies",
+    "theme": "lifehacks",
     "image": "D:\\site\\seo-site\\frontend\\images\\kurs-dollara-k-tenge-v-obmennikah-almaty-i-astany.webp"
   },
   {
@@ -410,7 +410,7 @@
       "центральный банк",
       "текущий"
     ],
-    "theme": "law",
+    "theme": "food",
     "image": "D:\\site\\seo-site\\frontend\\images\\kurs-juanja-v-tsb-rf-na-17-ijulja.webp"
   },
   {
@@ -447,7 +447,7 @@
       "неисправности айфона",
       "причины"
     ],
-    "theme": "technologies",
+    "theme": "news",
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-ne-skachivaetsja-prilozhenie-ne-vkljuchaetsja-ajfon-i-ne-zarjazhaetsja-podkljuchennyj.webp"
   },
   {
@@ -472,7 +472,7 @@
       "диагностика",
       "лечение"
     ],
-    "theme": "technologies",
+    "theme": "sport",
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-opuhajut-veki.webp"
   },
   {
@@ -491,7 +491,7 @@
       "почему",
       "Поисковые запросы:"
     ],
-    "theme": "sport",
+    "theme": "work",
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-u-menja-postojanno-merznut-nogi.webp"
   },
   {
@@ -506,7 +506,7 @@
       "технические проблемы",
       "глюки"
     ],
-    "theme": "lifehacks",
+    "theme": "art",
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-u-menja-vyletaet-gta-5-kogda-ja-pytajus-vyzvat-madzhestik.webp"
   },
   {
@@ -526,7 +526,7 @@
       "не работает",
       "телеграм"
     ],
-    "theme": "law",
+    "theme": "devices",
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-v-telegrame-ne-slyshno-zvonok-a-ne-vidno-kto-zvonit.webp"
   },
   {
@@ -548,7 +548,7 @@
       "вкусные",
       "простые"
     ],
-    "theme": "auto",
+    "theme": "life",
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-vypadajut-volosy-na-golove-u-zhenschin-i-kak-eto-ostanovit-vkusnye-i-poleznye-retsepty-iz-kabachkov.webp"
   },
   {
@@ -570,7 +570,7 @@
       "отзывы",
       "клиентский сервис"
     ],
-    "theme": "food",
+    "theme": "life",
     "image": "D:\\site\\seo-site\\frontend\\images\\rabota-s-klientami-v-vtb-otzyvy-sotrudnikov.webp"
   },
   {
@@ -587,7 +587,7 @@
       "российский",
       "самая"
     ],
-    "theme": "art",
+    "theme": "food",
     "image": "D:\\site\\seo-site\\frontend\\images\\samyj-populjarnyj-serial-i-pesnja-v-rossii-rezultaty-oprosa.webp"
   },
   {
@@ -598,7 +598,7 @@
       "онлайн",
       "онлайн займ"
     ],
-    "theme": "art",
+    "theme": "news",
     "image": "D:\\site\\seo-site\\frontend\\images\\tam-gde-ne-byvaet-snega-i-gde-mozhno-vzjat-zajm-na-kartu-onlajn.webp"
   }
 ]

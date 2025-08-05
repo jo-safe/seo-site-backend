@@ -6,16 +6,40 @@
     "image": "D:\\site\\seo-site\\frontend\\images\\chto-nuzhno-dlja-otkrytija-ip.webp"
   },
   {
+    "slug": "chto-znachit-slovo-znachaschee",
+    "title": "Что значит слово «значащее»?",
+    "intro": "В русском языке много слов, которые имеют не один, а несколько значений. Это не всегда понятно, и мы решили разобраться в одном из таких случаев.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\chto-znachit-slovo-znachaschee.webp"
+  },
+  {
     "slug": "gde-besplatno-skachat-muzyku-i-sdelat-prezentatsiju",
     "title": "Где бесплатно скачать музыку и сделать презентацию",
     "intro": "Поиск музыкального сопровождения для презентаций, слайд-шоу, видеороликов — это нелёгкая задача. Тем более, если вы хотите сделать презентацию не только эффектной, но и профессиональной. В этом случае лучше использовать лицензионную музыку, а не то, что находит поисковик в ответ на ваш запрос.",
     "image": "D:\\site\\seo-site\\frontend\\images\\gde-besplatno-skachat-muzyku-i-sdelat-prezentatsiju.webp"
   },
   {
-    "slug": "kak-nauchitsja-risovat",
-    "title": "Как научиться рисовать",
-    "intro": "Мы поговорили с иллюстратором и преподавателем рисунка Ириной Воробьёвой о том, как начать рисовать и как можно быстро научиться создавать красивые изображения.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\kak-nauchitsja-risovat.webp"
+    "slug": "gde-delajut-snils-novorozhdennomu-rebenku",
+    "title": "Где делают СНИЛС новорожденному ребенку",
+    "intro": "В 2017 году вы можете подать заявление на выдачу СНИЛС в МФЦ или лично в отделении Пенсионного фонда.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\gde-delajut-snils-novorozhdennomu-rebenku.webp"
+  },
+  {
+    "slug": "gde-vkusno-poest-v-nizhnem-novgorode",
+    "title": "Где вкусно поесть в Нижнем Новгороде",
+    "intro": "Мы часто говорим, что Нижний Новгород — город с богатой историей, город контрастов, город-мост. Но, по правде говоря, не всегда вспоминаем о том, что он также является городом-кухней. Ведь именно здесь можно попробовать блюда, которые не встретишь больше нигде.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\gde-vkusno-poest-v-nizhnem-novgorode.webp"
+  },
+  {
+    "slug": "kak-lechit-tsistit-esli-vy-beremenny",
+    "title": "Как лечить цистит, если вы беременны",
+    "intro": "Есть несколько способов облегчить состояние. Но главное — не заниматься самолечением.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kak-lechit-tsistit-esli-vy-beremenny.webp"
+  },
+  {
+    "slug": "kak-popolnit-stim-v-kazahstane",
+    "title": "Как пополнить стим в Казахстане",
+    "intro": "В Казахстане действует запрет на покупку игр в Steam, но это не значит, что вы не сможете насладиться любимыми играми.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kak-popolnit-stim-v-kazahstane.webp"
   },
   {
     "slug": "kak-rabotaet-protsent-i-kak-ego-poschitat-v-excel",
@@ -30,6 +54,12 @@
     "image": "D:\\site\\seo-site\\frontend\\images\\kak-uznat-balans-karty-riv-gosh.webp"
   },
   {
+    "slug": "kak-vykljuchit-iphone",
+    "title": "Как выключить iPhone",
+    "intro": "Процедура выключения iPhone очень проста. Чтобы выключить свой iPhone, просто откройте меню, нажмите и удерживайте кнопку «Home» и кнопку «Power». Вы увидите экран выключения. Выберите «Slide to power off» и выключите свой iPhone.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\kak-vykljuchit-iphone.webp"
+  },
+  {
     "slug": "kurs-juanja-v-tsb-rf-na-17-ijulja",
     "title": "Курс юаня в ЦБ РФ на 17 июля",
     "intro": "Центральный банк установил новый курс на 17 июля.",
@@ -42,21 +72,15 @@
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-ne-skachivaetsja-prilozhenie-ne-vkljuchaetsja-ajfon-i-ne-zarjazhaetsja-podkljuchennyj.webp"
   },
   {
-    "slug": "pochemu-opuhajut-veki",
-    "title": "Почему опухают веки",
-    "intro": "Отек может быть признаком аллергии, инфекции, а иногда — более серьёзного заболевания.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-opuhajut-veki.webp"
-  },
-  {
     "slug": "pochemu-v-telegrame-ne-slyshno-zvonok-a-ne-vidno-kto-zvonit",
     "title": "Почему в Телеграме не слышно звонок, а не видно, кто звонит",
     "intro": "Проще было бы видеть имя звонящего, но есть и недостатки.",
     "image": "D:\\site\\seo-site\\frontend\\images\\pochemu-v-telegrame-ne-slyshno-zvonok-a-ne-vidno-kto-zvonit.webp"
   },
   {
-    "slug": "samyj-populjarnyj-serial-i-pesnja-v-rossii-rezultaty-oprosa",
-    "title": "Самый популярный сериал и песня в России: результаты опроса",
-    "intro": "Настроения и вкусы аудитории в 2019 году.",
-    "image": "D:\\site\\seo-site\\frontend\\images\\samyj-populjarnyj-serial-i-pesnja-v-rossii-rezultaty-oprosa.webp"
+    "slug": "rabota-s-klientami-v-vtb-otzyvy-sotrudnikov",
+    "title": "Работа с клиентами в ВТБ: отзывы сотрудников",
+    "intro": "ВТБ (Банк) — крупнейшая российская банковская группа, работающая на финансовых рынках 25 стран мира. Она занимает первое место по активам среди всех банков РФ и входит в число крупнейших мировых финансовых институтов.",
+    "image": "D:\\site\\seo-site\\frontend\\images\\rabota-s-klientami-v-vtb-otzyvy-sotrudnikov.webp"
   }
 ]
