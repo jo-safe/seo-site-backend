@@ -74,8 +74,9 @@ def get_random_articles(count: int = 9, theme: str = Query(None), except_article
     filtered = []
     if theme:
         for a in all_articles:
-            logger.debug(f"theme: {theme}, a.theme: {a.get("theme")}")
-            if normalize_theme(a.get("theme")) == theme:
+            atheme = a.get("theme")
+            logger.debug(f"theme: {theme}, a.theme: {atheme}")
+            if normalize_theme(atheme) == theme:
                 filtered.append(a)
         #filtered = [a for a in all_articles if normalize_theme(a.get("theme")) == theme]
     else:
