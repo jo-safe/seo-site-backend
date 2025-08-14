@@ -70,13 +70,19 @@ def get_random_articles(count: int = 9, theme: str = Query(None), except_article
         return JSONResponse(status_code=500, content={"error": "Список статей пуст или недоступен"})
 
     theme = normalize_theme(theme)
+    logger.debug(f"theme: {theme}")
+    filtered = []
     if theme:
-        filtered = [a for a in all_articles if normalize_theme(a.get("theme")) == theme]
+        for a in all_articles:
+            logger.debug(f"theme: {theme}, a.theme: {a.get("theme")}")
+            if normalize_theme(a.get("theme")) == theme:
+                filtered.append(a)
+        #filtered = [a for a in all_articles if normalize_theme(a.get("theme")) == theme]
     else:
         filtered = all_articles
-    logger.debug(len(filtered))
+    
     filtered = [a for a in filtered if a.get("id") not in except_articles]
-    logger.debug(len(filtered))
+    
     if not filtered:
         return []
 
