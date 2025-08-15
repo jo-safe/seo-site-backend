@@ -1,278 +1,1322 @@
 [
   {
-    "slug": "10-bljud-iz-kabachkov",
-    "title": "10 блюд из кабачков",
-    "intro": "Кабачковый картонный рулет, запечённая лазанья со шпинатом или грибной суп — выбирайте любое! Все эти блюда не только вкусны, но ещё и полезны для здоровья. И самое главное, их очень легко приготовить в домашних условиях. Убедитесь сами и попробуйте несколько вариантов на свой вкус.",
-    "image": "images\\preview-10-bljud-iz-kabachkov.webp"
+    "slug": "10-bljud-na-zavtrak-iz-moloka-i-jaits",
+    "title": "10 блюд на завтрак из молока и яиц",
+    "intro": "Готовы ли вы к зимнему сезону? У вас есть достаточное количество тёплого белья для себя и ваших близких? А как насчёт продуктов питания? Предлагаем вам попробовать один или несколько этих простых в приготовлении блюд с молоком и яйцами — это поможет сделать ваш рацион более разнообразным!",
+    "image": "images\\preview-10-bljud-na-zavtrak-iz-moloka-i-jaits.webp"
   },
   {
-    "slug": "10-samyh-bystryh-zhivotnyh-i-10-samyh-dorogih-chasov",
-    "title": "10 самых быстрых животных и 10 самых дорогих часов",
-    "intro": "В нашей жизни так много всего происходит каждый день! Мы торопимся куда-то попасть вовремя или пытаемся успеть сделать больше за меньшее количество времени. Животный мир тоже спешит по своим делам — кто быстрее всех? И чем же отличаются те, что мы надеваем на свои руки? ;)",
-    "image": "images\\preview-10-samyh-bystryh-zhivotnyh-i-10-samyh-dorogih-chasov.webp"
+    "slug": "10-luchshih-sajtov-dlja-skachivanija-igr-na-pk",
+    "title": "10 лучших сайтов для скачивания игр на ПК",
+    "intro": "Выбирайте из десятков тысяч игр на любой вкус! Игры в этих сервисах можно не только скачивать, но и играть прямо через браузер. Главное — выбрать подходящий сайт по своему вкусу. Вот подборка самых популярных ресурсов.",
+    "image": "images\\preview-10-luchshih-sajtov-dlja-skachivanija-igr-na-pk.webp"
   },
   {
-    "slug": "10-samyh-krasivyh-russkih-aktris",
-    "title": "10 самых красивых русских актрис",
-    "intro": "Многие любят голливудских звёздочек за их идеальные пропорции, макияж без косметики и вечную молодость. Но есть в этом мире и другие чудеса — девушки из России! Они прекрасны по-своему, обладают неземной внешностью и очаровательными глазами. Предлагаем вам взглянуть на десять лучших российских красавиц!",
-    "image": "images\\preview-10-samyh-krasivyh-russkih-aktris.webp"
+    "slug": "10-samyh-dorogih-chasov",
+    "title": "10 самых дорогих часов",
+    "intro": "В рейтинге нет Rolex или Patek Philippe — только лучшие из лучших. А вы смогли бы носить такие? Расскажите в комментариях!",
+    "image": "images\\preview-10-samyh-dorogih-chasov.webp"
   },
   {
-    "slug": "6-sposobov-izbavitsja-ot-toshnoty-bez-rvoty",
-    "title": "6 способов избавиться от тошноты без рвоты",
-    "intro": "Если вы чувствуете себя нехорошо из-за морской болезни или переели в ресторане — эти советы помогут вам справиться с неприятными ощущениями быстро.",
-    "image": "images\\preview-6-sposobov-izbavitsja-ot-toshnoty-bez-rvoty.webp"
+    "slug": "10-samyh-krasivyh-tsvetov",
+    "title": "10 самых красивых цветов",
+    "intro": "Для кого-то есть особые предпочтения в выборе подарков – например, одни любят получать гаджеты или деньги, а другие предпочитают книги, косметику, алкоголь или игрушки для их домашних питомцев. Но большинство людей все же радуются цветущим букетам из любимых цветов. В этой статье мы собрали список десяти видов растений, которые не только красиво выглядят сами по себе, но также пользуются большой популярностью среди флористов во всем мире.",
+    "image": "images\\preview-10-samyh-krasivyh-tsvetov.webp"
   },
   {
-    "slug": "chem-lechit-gemorroj-v-domashnih-uslovijah",
-    "title": "Чем лечить геморрой в домашних условиях",
-    "intro": "В зависимости от стадии заболевания можно справиться самостоятельно или прибегнуть к помощи медикаментов и народных средств для быстрого облегчения состояния. Если есть кровотечение, боль не проходит даже после применения лекарств — обратитесь за медицинской помощью!",
-    "image": "images\\preview-chem-lechit-gemorroj-v-domashnih-uslovijah.webp"
+    "slug": "10-samyh-populjarnyh-filmov-i-serialov",
+    "title": "10 самых популярных фильмов и сериалов",
+    "intro": "Собрали самые кассовые кинокартины за последние годы, а также рейтинги лучших телешоу по версии зрителей.",
+    "image": "images\\preview-10-samyh-populjarnyh-filmov-i-serialov.webp"
   },
   {
-    "slug": "chto-delat-esli-bolit-golova",
-    "title": "Что делать, если болит голова",
-    "intro": "Запомните несколько простых правил и советы врачей. Это поможет вам не только справиться со спазмом или мигренью в домашних условиях без таблеток, но и предотвратить его повторное появление. В статье вы узнаете о трёх видах боли в голове, их симптомах и способах лечения — как самостоятельных, так и медицинских. А также поймёте причины возникновения каждого из них.",
-    "image": "images\\preview-chto-delat-esli-bolit-golova.webp"
+    "slug": "10-sposobov-sekonomit-dengi",
+    "title": "10 способов сэкономить деньги",
+    "intro": "Как сократить ежедневные траты на питание, развлечения или автомобиль? Мы собрали для вас самые эффективные идеи из нашего архива. И помните, что небольшие изменения в привычках могут привести к заметной экономии бюджета!",
+    "image": "images\\preview-10-sposobov-sekonomit-dengi.webp"
   },
   {
-    "slug": "chto-delat-esli-vy-zaskuchali-po-videoigram",
-    "title": "Что делать, если вы заскучали по видеоиграм",
-    "intro": "Скучать — не страшно. Но играть в компьютерные или приставки-консольки может быть очень полезно для здоровья нервной системы. Особенно это касается детей! Поэтому мы расскажем вам о нескольких способах избавиться от тоскливости и вновь окунуться в мир игровых приключений. И сделать всё это можно даже без компьютера, планшета и смартфона.",
-    "image": "images\\preview-chto-delat-esli-vy-zaskuchali-po-videoigram.webp"
+    "slug": "10-veschej-kotorymi-mozhno-zanjatsja-letom-esli-vam-skuchno",
+    "title": "10 вещей, которыми можно заняться летом, если вам скучно",
+    "intro": "Найти интересное занятие в жаркий сезон гораздо проще, чем зимой. Но даже сейчас у нас есть много идей для лета! Мы собрали список увлекательных занятий на свежем воздухе, которые точно не дадут заскучать ни взрослым, ни детям.",
+    "image": "images\\preview-10-veschej-kotorymi-mozhno-zanjatsja-letom-esli-vam-skuchno.webp"
   },
   {
-    "slug": "chto-oznachaet-obnulenie-limita-rassrochki-po-karte-halva",
-    "title": "Что означает обнуление лимита рассрочки по карте «Халва»",
-    "intro": "Вся информация о том, почему это произойдёт и какие действия необходимо совершить пользователю карты в этом случае.",
-    "image": "images\\preview-chto-oznachaet-obnulenie-limita-rassrochki-po-karte-halva.webp"
+    "slug": "10-voprosov-dlja-igry-pravda-ili-dejstvie",
+    "title": "10 вопросов для игры «Правда или действие»",
+    "intro": "Если вы хотите узнать о своей девушке что-то новое — попробуйте сыграть в эту игру. Она может не только развеять некоторые ваши сомнения, но ещё больше укрепить отношения между вами. Вот десять интересных тем, которые можно обсудить при помощи этого увлекательного занятия!",
+    "image": "images\\preview-10-voprosov-dlja-igry-pravda-ili-dejstvie.webp"
   },
   {
-    "slug": "chto-pomogaet-ot-toshnoty-i-kak-tormozit-na-mehanike",
-    "title": "Что помогает от тошноты и как тормозить на механике",
-    "intro": "Полезные советы для начинающих водителей.",
-    "image": "images\\preview-chto-pomogaet-ot-toshnoty-i-kak-tormozit-na-mehanike.webp"
+    "slug": "11-horoshih-knig-kotorye-mozhno-slushat-ili-chitat-besplatno",
+    "title": "11 хороших книг, которые можно слушать или читать бесплатно",
+    "intro": "Рассказываем о финансовых книгах — в них есть полезные советы для всех без исключений.",
+    "image": "images\\preview-11-horoshih-knig-kotorye-mozhno-slushat-ili-chitat-besplatno.webp"
   },
   {
-    "slug": "gde-nahoditsja-nofelet-film-kotoryj-mozhno-smotret-besplatno",
-    "title": "«Где находится Нофелет?» — фильм, который можно смотреть бесплатно",
-    "intro": "Когда-то давно я наткнулся в Сети на короткометражку «Нофелет». Тогда она мне показалась забавной, а потом стала любимой и даже получила звание лучшего фильма по версии жюри Кинотавра 2013 года. Если вы еще не видели эту историю о поисках пропавшего питомца, то это время исправить ситуацию! В Интернете сейчас есть возможность посмотреть этот мультфильм совершенно бесплатно или скачать его для просмотра без сети.",
-    "image": "images\\preview-gde-nahoditsja-nofelet-film-kotoryj-mozhno-smotret-besplatno.webp"
+    "slug": "12-video-i-memov-kotorye-zastavjat-vas-smejatsja-do-slez",
+    "title": "12 видео и мемов, которые заставят вас смеяться до слез",
+    "intro": "Лучшее из Интернета в один клик!",
+    "image": "images\\preview-12-video-i-memov-kotorye-zastavjat-vas-smejatsja-do-slez.webp"
   },
   {
-    "slug": "gde-sneg-kakoj-sneg-otvet-na-voprosy-o-pogode",
-    "title": "\"Где снег? Какой снег?\" — ответ на вопросы о погоде",
-    "intro": "Снегопады не радуют ни взрослых, ни детей в этом году, но если вы хотите узнать что-то интересное про зиму и её белые чудеса, то обязательно прочитайте эту заметку. Здесь собраны ответы на самые популярные и частые вопросы об этой теме.",
-    "image": "images\\preview-gde-sneg-kakoj-sneg-otvet-na-voprosy-o-pogode.webp"
+    "slug": "15-krasivyh-mest-v-moskve-gde-mozhno-poest",
+    "title": "15 красивых мест в Москве, где можно поесть",
+    "intro": "Красивый вид — это одно из главных преимуществ московских заведений общественного питания и доставки еды на дом. Мы собрали лучшие места для отдыха погулять и подкрепиться. Посмотрите фото и решите сами! ;)",
+    "image": "images\\preview-15-krasivyh-mest-v-moskve-gde-mozhno-poest.webp"
   },
   {
-    "slug": "grafik-prognoza-tseny-zolota-na-2024-god",
-    "title": "График прогноза цены золота на 2024 год",
-    "intro": "Ожидайте роста — или падения? Сравните данные разных источников.",
-    "image": "images\\preview-grafik-prognoza-tseny-zolota-na-2024-god.webp"
+    "slug": "15-mest-gde-mozhno-poguljat-v-nizhnem-njachange-i-kazani",
+    "title": "15 мест, где можно погулять в Нижнем, Нячанге и Казани",
+    "intro": "Осенние каникулы — отличная возможность отправиться на прогулку, которая подарит вам массу новых впечатлений. Мы подготовили для вас список из самых интересных маршрутов по городам России и не только.",
+    "image": "images\\preview-15-mest-gde-mozhno-poguljat-v-nizhnem-njachange-i-kazani.webp"
   },
   {
-    "slug": "kak-doehat-ot-i-do",
-    "title": "Как доехать от и до",
-    "intro": "Самый удобный способ добраться из одного места в другое зависит только от того, где вы находитесь, куда вам нужно ехать и сколько времени у вас есть на дорогу. Предлагаем вашему вниманию обзор доступных способов передвижения по городу Санкт‑Петербург. Мы составили подробное описание всех видов транспорта для тех случаев, когда вам надо быстро попасть откуда‑то к кому‑нибудь или когда это можно сделать не спеша. А ещё мы расскажем о том, что делать, если вы оказались без денег.",
-    "image": "images\\preview-kak-doehat-ot-i-do.webp"
+    "slug": "20-veschej-kotorye-mozhno-sdelat-iz-plastilina",
+    "title": "20 вещей, которые можно сделать из пластилина",
+    "intro": "На самом деле это не так уж много — всего лишь двадцать простых вещиц для дома или сада, но зато они очень эффектные! Если у вас есть дети (или внуки), то в ход пойдут все возможные цвета пластилина — ведь всё будет выглядеть ещё интереснее. А если вы хотите создать что-то однотонное, например чёрно‑желтую статуэтку пчелы или черного паука на стену под светильник, то придётся немного повозиться со смешиванием цветов. Впрочем, даже эти небольшие усилия окупятся результатом. Не поверите, а вот выглядит.",
+    "image": "images\\preview-20-veschej-kotorye-mozhno-sdelat-iz-plastilina.webp"
   },
   {
-    "slug": "kak-ispolzovat-kartu-ozonkarta-s-limitom-v-15-000-rublej",
-    "title": "Как использовать карту «Озон.Карта» с лимитом в 15 000 рублей",
-    "intro": "Покупайте продукты питания на сайте или через приложение, а также товары по скидке во время акций.",
-    "image": "images\\preview-kak-ispolzovat-kartu-ozonkarta-s-limitom-v-15-000-rublej.webp"
+    "slug": "25-knig-kotorye-pomogut-provesti-otpusk-s-polzoj",
+    "title": "25 книг, которые помогут провести отпуск с пользой",
+    "intro": "Список рекомендаций для тех, кто не планирует сидеть дома в жару. Эти книги легко взять с собой на пляж или пикник. В них вы найдёте советы о том, как по-настоящему расслабиться во время отдыха, чтобы потом можно было вернуться к работе с новыми идеями и энергией.",
+    "image": "images\\preview-25-knig-kotorye-pomogut-provesti-otpusk-s-polzoj.webp"
   },
   {
-    "slug": "kak-nastroit-vpn-s-ispolzovaniem-protokola-ikev2",
-    "title": "Как настроить VPN с использованием протокола IKEv2",
-    "intro": "Для пользователей Android-устройств.",
-    "image": "images\\preview-kak-nastroit-vpn-s-ispolzovaniem-protokola-ikev2.webp"
+    "slug": "3-mesta-v-okrestnostjah-grodno-kuda-mozhno-poehat-na-mashine-i-kak-pohudet-posle-rodov",
+    "title": "3 места в окрестностях Гродно, куда можно поехать на машине и как похудеть после родов",
+    "intro": "Если вы хотите увидеть красивый город и насладиться природой вокруг него — вам точно сюда! Заодно сможете немного развеяться, чтобы быстрее вернуться к привычной жизни. А если у вас маленькие дети или малыш-грудничок — возьмите их с собой! Поверьте, они тоже будут рады поездочке за город.",
+    "image": "images\\preview-3-mesta-v-okrestnostjah-grodno-kuda-mozhno-poehat-na-mashine-i-kak-pohudet-posle-rodov.webp"
   },
   {
-    "slug": "kak-nastroit-vpn-s-pomoschju-hiddify",
-    "title": "Как настроить VPN с помощью Hiddify",
-    "intro": "Этот инструмент поможет вам быстро найти нужные настройки для подключения к серверам в интернете из любой точки мира.",
-    "image": "images\\preview-kak-nastroit-vpn-s-pomoschju-hiddify.webp"
+    "slug": "3-prichiny-pochemu-vyletaet-lagaet-ili-ne-rabotaet-kamera-v-roblox-na-pc",
+    "title": "3 причины, почему вылетает, лагает или не работает камера в Roblox на PC",
+    "intro": "Что делать? Проверьте три простых параметра.",
+    "image": "images\\preview-3-prichiny-pochemu-vyletaet-lagaet-ili-ne-rabotaet-kamera-v-roblox-na-pc.webp"
   },
   {
-    "slug": "kak-poborot-beskonechnuju-problemu",
-    "title": "Как побороть бесконечную проблему",
-    "intro": "Для того чтобы понять суть этой стратегии лучше всего разобрать её на примере из жизни. Представим себе ситуацию когда вы столкнулись со сложной проблемой которую не можете решить в течение нескольких дней или даже недель. Как правило у вас есть определенное время для ее решеня (срок), которое будет приводиться к неприятным последствиям если его не соблюсти. Вы пытаетесь найти решение разными способами но каждый раз сталкиваетесь с препятствием после которого бросаете идею и переходите к следующей попытке поиска решения. После чего снова затыкаетесь на каком-то этапе. В результате времени остается все меньше а результат так и нет!",
-    "image": "images\\preview-kak-poborot-beskonechnuju-problemu.webp"
+    "slug": "3-voprosa-na-kotorye-ne-znajut-otveta-1-iz-3",
+    "title": "3 вопроса, на которые не знают ответа 1 из 3",
+    "intro": "Мы расскажем о распространённых травмах и ошибках в уходе за домашними цветами.",
+    "image": "images\\preview-3-voprosa-na-kotorye-ne-znajut-otveta-1-iz-3.webp"
   },
   {
-    "slug": "kak-poehat-v-severnuju-koreju-popolnit-steam-koshelek-i-popast-v-pridnestrove-iz-rossii",
-    "title": "Как поехать в Северную Корею, пополнить Steam кошелёк и попасть в Приднестровье из России",
-    "intro": "Удивительные места на нашей планете или просто странные способы получить деньги? Представители двух сторон всегда найдут аргументы за свою точку зрения. Впрочем, иногда мы можем найти общие точки соприкосновения между ними. Так вот, почему люди ездят в Северную Корею, где можно купить аккаунт в Steam, а ещё — что нужно знать о поездке в Приднестровье через Россию.",
-    "image": "images\\preview-kak-poehat-v-severnuju-koreju-popolnit-steam-koshelek-i-popast-v-pridnestrove-iz-rossii.webp"
+    "slug": "3-voprosa-o-puteshestvii-po-rossii-gde-ostanovitsja-gde-poest-i-gde-poguljat",
+    "title": "3 вопроса о путешествии по России: где остановиться, где поесть и где погулять",
+    "intro": "Самые частые вопросы в комментариях к нашей рубрике — «Где можно дешево переночевать?», «А что тут есть вкусного?» и «Какие местные заведения стоит посетить?». В этом выпуске мы постараемся ответить на них применительно к трем городам, которые стали для нас особенно дорогими. Если у вас возникли другие темы, не стесняйтесь спрашивать!",
+    "image": "images\\preview-3-voprosa-o-puteshestvii-po-rossii-gde-ostanovitsja-gde-poest-i-gde-poguljat.webp"
   },
   {
-    "slug": "kak-pravilno-odetsja-na-svadbu",
-    "title": "Как правильно одеться на свадьбу",
-    "intro": "Невесте — самое важное. Но не стоит забывать о других участниках торжества. Выбирайте стильный наряд для себя или близких вам людей по этой статье.",
-    "image": "images\\preview-kak-pravilno-odetsja-na-svadbu.webp"
+    "slug": "35-idej-bljud-iz-risa-i-kuritsy",
+    "title": "35 идей блюд из риса и курицы",
+    "intro": "Вкусные пилав, запеканки, супы и салаты — на любой вкус!",
+    "image": "images\\preview-35-idej-bljud-iz-risa-i-kuritsy.webp"
   },
   {
-    "slug": "kak-pravilno-pisat-otzyvy-ob-uslugah",
-    "title": "Как правильно писать отзывы об услугах",
-    "intro": "Чтобы не только вы были довольны покупкой или результатом работы мастера, но и другие люди имели возможность сделать правильный выбор при выборе услуги.",
-    "image": "images\\preview-kak-pravilno-pisat-otzyvy-ob-uslugah.webp"
+    "slug": "5-novinok-filmov-2025-goda-kotorye-stoit-posmotret-v-horoshem-kachestve-i-5-professij-kotorye-budut-vostrebovany-v-2025-godu",
+    "title": "5 новинок фильмов 2025 года, которые стоит посмотреть в хорошем качестве, и 5 профессий, которые будут востребованы в 2025 году",
+    "intro": "Новый год — время новых начинаний. И это касается не только личной жизни или карьеры, но и кинотеатров. Уже сейчас мы знаем о нескольких проектах, на которые определённо можно потратить деньги за попкорном в зале (иногда даже лучше, чем дома). А если вы думаете переучиваться, то обязательно обратите внимание на список самых необходимых специальностей ближайшего будущего.",
+    "image": "images\\preview-5-novinok-filmov-2025-goda-kotorye-stoit-posmotret-v-horoshem-kachestve-i-5-professij-kotorye-budut-vostrebovany-v-2025-godu.webp"
   },
   {
-    "slug": "kak-proehat-obschestvennym-transportom-v-moskve",
-    "title": "Как проехать общественным транспортом в Москве",
-    "intro": "Если вы приехали из другой страны или даже города России и не знакомы со столицей нашей Родины — Москва, то у вас обязательно возникнет вопрос о том, как передвигаться по городу на общественном транспорте? Ведь это самый дешевый способ передвижения! И хотя я живу здесь уже много лет (12), но все равно часто пользуюсь услугами общественного транспорта. В этой статье расскажу вам обо всех видах городского общественного транспорта Москвы. ",
-    "image": "images\\preview-kak-proehat-obschestvennym-transportom-v-moskve.webp"
+    "slug": "5-voprosov-na-kotorye-nuzhno-znat-otvety-v-2025-godu",
+    "title": "5 вопросов, на которые нужно знать ответы в 2025 году",
+    "intro": "Порой нам кажется, что не так уж много изменений происходит за один день или даже месяц жизни. Но если посмотреть дальше — то становится ясно, как быстро меняется мир вокруг нас. Очевидно, что к концу десятилетия произойдёт ещё больше перемен, чем мы можем представить себе сейчас. Поэтому предлагаем вам подумать над пятью вопросами по разным сферам нашей жизни.",
+    "image": "images\\preview-5-voprosov-na-kotorye-nuzhno-znat-otvety-v-2025-godu.webp"
   },
   {
-    "slug": "kak-rabotat-v-taksi-kogda-glushat-internet",
-    "title": "Как работать в такси, когда глушат интернет",
-    "intro": "В этом материале рассказываем о проблемах водителей такси во время перебоев связи и блокировки интернета на территории России. Рассказываем об альтернативных решениях для получения заказов клиентов, общения по телефону или сообщениям через мессенджеры. Также объясняем как проверить доступность сервисов в вашем регионе. А ещё приводим примеры ситуаций из жизни наших читателей.",
-    "image": "images\\preview-kak-rabotat-v-taksi-kogda-glushat-internet.webp"
+    "slug": "7-prichin-bolej-u-muzhchin",
+    "title": "7 причин болей у мужчин",
+    "intro": "Как отличить обычную усталость после тяжёлого дня от серьёзных проблем со здоровьем? И как их избежать?",
+    "image": "images\\preview-7-prichin-bolej-u-muzhchin.webp"
   },
   {
-    "slug": "kak-raisa-kotoraja-vstaet-v-shest-utra-proshla-registratsiju-na-rejs-v-sheremetevo",
-    "title": "Как раиса, которая встаёт в шесть утра, прошла регистрацию на рейс в «Шереметьево»",
-    "intro": "Все подробности о том, как лучше подготовиться к утреннему вылету и не пропустить свой самолет даже тогда, когда он отправляется слишком рано.",
-    "image": "images\\preview-kak-raisa-kotoraja-vstaet-v-shest-utra-proshla-registratsiju-na-rejs-v-sheremetevo.webp"
+    "slug": "avtobus-11-v-minske-raspisanie",
+    "title": "Автобус 11 в Минске: расписание",
+    "intro": "Каждый житель города имеет свои привычки и предпочтения при выборе способа передвижения по городу — пешком или на транспорте. В столице есть несколько видов общественного транспорта для того чтобы вы могли выбрать тот который вам больше всего подходит под ваши нужды и потребности. Одним из самых популярных является городской автобус (автобусные перевозки). Расписания всех автобусных линий нашего сайта можно найти здесь → http://minskbus.by/ . Сегодня мы расскажем о наиболее популярном у жителей нашей страны городском автобусе №11.",
+    "image": "images\\preview-avtobus-11-v-minske-raspisanie.webp"
   },
   {
-    "slug": "kak-sozdat-svoj-sajt-s-pomoschju-kodov",
-    "title": "Как создать свой сайт с помощью кодов",
-    "intro": "Если вы хотите создавать свои сайты или просто интересно познакомиться с тем, как они создаются — вам стоит попробовать написать несколько строк кода самостоятельно. Это позволит получить понимание того, что происходит при создании любого современного сайта. В этой статье мы расскажем о том, как можно сделать это максимально быстро и легко. ",
-    "image": "images\\preview-kak-sozdat-svoj-sajt-s-pomoschju-kodov.webp"
+    "slug": "avtobus-79-vo-vladivostoke-raspisanie-i-marshrut",
+    "title": "Автобус № 79 во Владивостоке: расписание и маршрут",
+    "intro": "Этот автобус ходит по городу каждый день в разное время суток. Узнайте всё о нём!",
+    "image": "images\\preview-avtobus-79-vo-vladivostoke-raspisanie-i-marshrut.webp"
   },
   {
-    "slug": "kak-ubrat-vtoroj-podborodok-u-zhenschin",
-    "title": "Как убрать второй подбородок у женщин",
-    "intro": "Несколько простых советов помогут вам избавиться от второго подбородка за несколько недель или даже дней — в зависимости от того, как много времени вы готовы уделять этой проблеме.",
-    "image": "images\\preview-kak-ubrat-vtoroj-podborodok-u-zhenschin.webp"
+    "slug": "bolezn-lajma-chto-delat-esli-vas-ukusil-klesch",
+    "title": "Болезнь Лайма: что делать, если вас укусил клещ",
+    "intro": "Как не заразиться и как лечиться в случае заболевания?",
+    "image": "images\\preview-bolezn-lajma-chto-delat-esli-vas-ukusil-klesch.webp"
   },
   {
-    "slug": "kak-uznat-chto-dumaet-i-delaet-vasha-ljubimaja",
-    "title": "Как узнать, что думает и делает ваша любимая",
-    "intro": "Когда мы влюблены, хочется знать все о нашей девушке или парне. Что он/она ест на завтрак? Какие фильмы смотрит по вечерам? С кем проводит время после работы? А если у него/нее есть какие-то секреты… Как же не замучиться скукой и одиночеством! Но как узнать об этом? Можно попытаться расспросить прямо ее (или его) обо всем — но ведь это может вызвать подозрение и проступок будет наказан суровой фразой «пошли воевать». Поэтому лучше применить метод «вопрос к себе» :) ",
-    "image": "images\\preview-kak-uznat-chto-dumaet-i-delaet-vasha-ljubimaja.webp"
+    "slug": "chem-lechit-jachmen",
+    "title": "Чем лечить ячмень",
+    "intro": "Не нужно заниматься самолечением — лучше обратиться к офтальмологу и проконсультироваться о способах лечения этого заболевания.",
+    "image": "images\\preview-chem-lechit-jachmen.webp"
   },
   {
-    "slug": "kak-zarabotat-na-kriptovaljute-v-rossii-i-zaregistrirovatsja-na-gosuslugah",
-    "title": "Как заработать на криптовалюте в России и зарегистрироваться на Госуслугах",
-    "intro": "Узнайте, как это сделать даже без смартфонов или компьютера.",
-    "image": "images\\preview-kak-zarabotat-na-kriptovaljute-v-rossii-i-zaregistrirovatsja-na-gosuslugah.webp"
+    "slug": "chem-lechit-naruzhnyj-gemorroj-u-zhenschin",
+    "title": "Чем лечить наружный геморрой у женщин",
+    "intro": "В домашних условиях и в клинике — по ситуации.",
+    "image": "images\\preview-chem-lechit-naruzhnyj-gemorroj-u-zhenschin.webp"
   },
   {
-    "slug": "kak-zarabotat-na-ozon",
-    "title": "Как заработать на Ozon",
-    "intro": "Поделитесь своим мнением об этих товарах или работе компании — и получите за это вознаграждение в виде денег или скидок.",
-    "image": "images\\preview-kak-zarabotat-na-ozon.webp"
+    "slug": "chem-mazat-vetrjanku-u-detej",
+    "title": "Чем мазать ветрянку у детей",
+    "intro": "Выбирайте подходящее средство и соблюдайте правила гигиены. Это поможет быстро избавиться от неприятного кожного проявления болезни.",
+    "image": "images\\preview-chem-mazat-vetrjanku-u-detej.webp"
   },
   {
-    "slug": "karta-halva-ot-sovkombanka-kak-proverit-balans",
-    "title": "Карта Халва от Совкомбанка: как проверить баланс",
-    "intro": "Это можно сделать несколькими способами — через сайт или мобильное приложение банка, по SMS и даже без интернета.",
-    "image": "images\\preview-karta-halva-ot-sovkombanka-kak-proverit-balans.webp"
+    "slug": "chem-smazyvat-vetrjanku-chtoby-bylo-effektivnee",
+    "title": "Чем смазывать ветрянку, чтобы было эффективнее",
+    "intro": "Рекомендации по выбору и использованию лекарств для взрослых и детей разных возрастов.",
+    "image": "images\\preview-chem-smazyvat-vetrjanku-chtoby-bylo-effektivnee.webp"
   },
   {
-    "slug": "kurs-juanja-k-rublju-v-bankah-vladivostoka",
-    "title": "Курс юаня к рублю в банках Владивостока",
-    "intro": "Недавно мы говорили о том, что курсы валют по отношению друг к другу на самом деле не так уж важны — гораздо важнее то, как они меняются относительно доллара или евро. Сегодня же предлагаем вам посмотреть еще более простую статистику. Курс какой-то валюты к другой можно узнать практически мгновенно (просто поделив одно число на другое), а вот чтобы получить реальные цифры из банков, придется ждать некоторое время. Поэтому лучше всего смотреть самые свежие данные именно по крупным банкам крупных городов. В нашем случае это будут крупные банки Владивостока. ",
-    "image": "images\\preview-kurs-juanja-k-rublju-v-bankah-vladivostoka.webp"
+    "slug": "chem-vreden-energetik-i-pochemu-tak-opasno-upotrebljat-taurin",
+    "title": "Чем вреден энергетик и почему так опасно употреблять таурин",
+    "intro": "Энергетические напитки не только дают бодрость на некоторое время, но ещё могут навредить здоровью человека в целом. В этой статье вы узнаете о том, чем именно опасны эти продукты питания и что такое таурин.",
+    "image": "images\\preview-chem-vreden-energetik-i-pochemu-tak-opasno-upotrebljat-taurin.webp"
   },
   {
-    "slug": "mozhno-li-detjam-davat-griby-i-chajnyj-grib",
-    "title": "Можно ли детям давать грибы и чайный гриб",
-    "intro": "Белки, минералы, витамины — но есть нюансы.",
-    "image": "images\\preview-mozhno-li-detjam-davat-griby-i-chajnyj-grib.webp"
+    "slug": "chto-delaet-sposobnost-dostoevskogo",
+    "title": "Что делает способность Достоевского?",
+    "intro": "Как читатель может помочь автору? Что это за странный феномен — когда герой в книге кажется вам более живым, чем реальные люди вокруг вас? Своими размышлениями на эти вопросы делится писательница Кристина Семенова.",
+    "image": "images\\preview-chto-delaet-sposobnost-dostoevskogo.webp"
   },
   {
-    "slug": "mozhno-li-proverit-balans-litsevogo-scheta-mts-i-karty-vtb",
-    "title": "Можно ли проверить баланс лицевого счёта МТС и карты ВТБ",
-    "intro": "Делаем это через мобильное приложение или сайт банка.",
-    "image": "images\\preview-mozhno-li-proverit-balans-litsevogo-scheta-mts-i-karty-vtb.webp"
+    "slug": "chto-delat-esli-bolit-zheludok-v-zharu",
+    "title": "Что делать, если болит желудок в жару",
+    "intro": "Простые советы помогут не допустить серьёзных проблем и облегчить самочувствие.",
+    "image": "images\\preview-chto-delat-esli-bolit-zheludok-v-zharu.webp"
   },
   {
-    "slug": "otzyvy-o-magazine-ipiter",
-    "title": "Отзывы о магазине ipiter",
-    "intro": "В нашей рубрике «Покупатели» мы собираем мнения наших читателей об их покупках в различных магазинах — как онлайн-, так и офлайн-торговых точках. Если вы недавно приобрели что‑то интересное или полезное для себя (или близких), поделитесь своим мнением на тему!",
-    "image": "images\\preview-otzyvy-o-magazine-ipiter.webp"
+    "slug": "chto-delat-esli-bolit-zhivot",
+    "title": "Что делать, если болит живот",
+    "intro": "В большинстве случаев достаточно принять какое-то лекарство и лечь в постель — но когда не обойтись без врача?",
+    "image": "images\\preview-chto-delat-esli-bolit-zhivot.webp"
   },
   {
-    "slug": "otzyvy-o-rabote-v-alfa-banke",
-    "title": "Отзывы о работе в Альфа-Банке",
-    "intro": "Почитайте истории людей, которые работают в банке или хотят там работать — возможно, это поможет вам сделать выбор посложнее.",
-    "image": "images\\preview-otzyvy-o-rabote-v-alfa-banke.webp"
+    "slug": "chto-delat-esli-drug-poprosil-vas-vybrat-chto-to-drugoe-no-ego-vzlomali-v-telegram",
+    "title": "Что делать, если друг попросил вас выбрать что-то другое, но его взломали в Telegram",
+    "intro": "Если вы не знаете ответ на этот вопрос, то советуем почитать нашу инструкцию о том, как восстановить доступ к своему аккаунту после того, как он был украден хакерами или мошенниками. А ниже мы расскажем вам, какие шаги предпринять, чтобы помочь вашему другу вернуть контроль над своим профилем. ",
+    "image": "images\\preview-chto-delat-esli-drug-poprosil-vas-vybrat-chto-to-drugoe-no-ego-vzlomali-v-telegram.webp"
   },
   {
-    "slug": "otzyvy-sotrudnikov-samolet-pljus-i-skladov-vajldberriz",
-    "title": "Отзывы сотрудников «Самолет плюс» и складов «Вайлдберриз»",
-    "intro": "О том, что в крупной компании не всегда всё гладко.",
-    "image": "images\\preview-otzyvy-sotrudnikov-samolet-pljus-i-skladov-vajldberriz.webp"
+    "slug": "chto-delat-esli-nachalas-vojna",
+    "title": "Что делать, если началась война",
+    "intro": "Готовиться заранее лучше всего — хотя бы к самому худшему сценарию развития событий. Но что сделать в первую очередь, когда уже не обойтись без войны? Мы подготовили для вас пошаговый список из самых важных шагов.",
+    "image": "images\\preview-chto-delat-esli-nachalas-vojna.webp"
   },
   {
-    "slug": "pochemu-bolit-zhivot-posle-edy",
-    "title": "Почему болит живот после еды",
-    "intro": "Если боль в животе сопровождается другими неприятными ощущениями — это может служить сигналом о болезни или пищевой проблеме. Узнайте подробнее из нашей публикации.",
-    "image": "images\\preview-pochemu-bolit-zhivot-posle-edy.webp"
+    "slug": "chto-delat-esli-ne-prinimajut-vashi-otzyvy-na-jandekskartah-i-kak-zakazat-nuzhnye",
+    "title": "Что делать, если не принимают ваши отзывы на Яндекс.Картах и как заказать нужные",
+    "intro": "Вы можете оставить в Google Maps комментарий о компании или её услугах. Но что, если вам придётся его удалить? И что делать, чтобы он вернулся обратно? Мы расскажем об этом подробнее.",
+    "image": "images\\preview-chto-delat-esli-ne-prinimajut-vashi-otzyvy-na-jandekskartah-i-kak-zakazat-nuzhnye.webp"
   },
   {
-    "slug": "pochemu-gorit-chek-na-avtomobile",
-    "title": "Почему горит чек на автомобиле",
-    "intro": "Что делать, если индикатор загорелся и как проверить его работу после ремонта или замены деталей автомобиля.",
-    "image": "images\\preview-pochemu-gorit-chek-na-avtomobile.webp"
+    "slug": "chto-delat-esli-posle-udalenija-zuba-opuhla-lunka-ili-desna",
+    "title": "Что делать, если после удаления зуба опухла лунка или десна",
+    "intro": "Эти советы помогут справиться со сложной ситуацией в домашних условиях — но не заменяют консультацию стоматолога.",
+    "image": "images\\preview-chto-delat-esli-posle-udalenija-zuba-opuhla-lunka-ili-desna.webp"
   },
   {
-    "slug": "pochemu-ja-zarabatyvaju-bolshe-chem-na-sklade-ozon-i-pochemu-vy-ne-mozhete-otkryt-sajt",
-    "title": "Почему я зарабатываю больше, чем на складе «Озон» и почему вы не можете открыть сайт",
-    "intro": "Мои знакомые из разных городов рассказали мне про свою работу в компании — у вас тоже есть опыт? Делитесь им в комментариях!",
-    "image": "images\\preview-pochemu-ja-zarabatyvaju-bolshe-chem-na-sklade-ozon-i-pochemu-vy-ne-mozhete-otkryt-sajt.webp"
+    "slug": "chto-delat-esli-sheja-bolit-posle-sna",
+    "title": "Что делать, если шея болит после сна",
+    "intro": "Учитывайте свои особенности и не игнорируйте проблемы со здоровьем.",
+    "image": "images\\preview-chto-delat-esli-sheja-bolit-posle-sna.webp"
   },
   {
-    "slug": "pochemu-kruzhki-v-telegram-nachinajut-lagat-kogda-vy-pytaetes-zapisat-soobschenie",
-    "title": "Почему кружки в Telegram начинают лагать, когда вы пытаетесь записать сообщение",
-    "intro": "И что делать, если это происходит слишком часто.",
-    "image": "images\\preview-pochemu-kruzhki-v-telegram-nachinajut-lagat-kogda-vy-pytaetes-zapisat-soobschenie.webp"
+    "slug": "chto-delat-esli-telegram-na-android-ne-gruzitsja-ili-vzlomali-akkaunt",
+    "title": "Что делать, если Telegram на Android не грузится или взломали аккаунт",
+    "intro": "Если у вас нет времени читать подробные инструкции, воспользуйтесь нашей пошаговой инструкцией для решения любой проблемы в нижней части страницы.",
+    "image": "images\\preview-chto-delat-esli-telegram-na-android-ne-gruzitsja-ili-vzlomali-akkaunt.webp"
   },
   {
-    "slug": "pochemu-merznut-nogi-v-noskah",
-    "title": "Почему мерзнут ноги в носках",
-    "intro": "Опасная привычка и признаки опасности для здоровья.",
-    "image": "images\\preview-pochemu-merznut-nogi-v-noskah.webp"
+    "slug": "chto-delat-esli-tormozit-internet-ot-tele2",
+    "title": "Что делать, если тормозит интернет от «Теле2»",
+    "intro": "Сброс настроек или переподключение — в зависимости от ситуации.",
+    "image": "images\\preview-chto-delat-esli-tormozit-internet-ot-tele2.webp"
   },
   {
-    "slug": "pochemu-opuhaet-nizhnee-veko",
-    "title": "Почему опухает нижнее веко",
-    "intro": "Это может означать не только безобидную проблему с косметикой или уставшими глазами. Иногда нужно обратиться к врачу.",
-    "image": "images\\preview-pochemu-opuhaet-nizhnee-veko.webp"
+    "slug": "chto-delat-esli-u-rebenka-boljat-pochki-i-pechen",
+    "title": "Что делать, если у ребёнка болят почки и печень",
+    "intro": "Как распознать проблему на ранних стадиях и что сделать в первую очередь.",
+    "image": "images\\preview-chto-delat-esli-u-rebenka-boljat-pochki-i-pechen.webp"
   },
   {
-    "slug": "pochemu-v-rejtingovyh-igrah-ne-zapuskaetsja-cherez-mobilnyj-internet",
-    "title": "Почему в рейтинговых играх не запускается через мобильный интернет",
-    "intro": "Попробуйте перезапустить игру или проверить настройки роутера.",
-    "image": "images\\preview-pochemu-v-rejtingovyh-igrah-ne-zapuskaetsja-cherez-mobilnyj-internet.webp"
+    "slug": "chto-delat-esli-u-vas-vysokoe-davlenie",
+    "title": "Что делать, если у вас высокое давление",
+    "intro": "Первая и самая важная задача — не паниковать. Вы же знаете, насколько это важно для тех людей, которые страдают гипертонией? А вот вторая задача будет посложнее. Если вы оказались в ситуации, когда ваше кровяное давление внезапно подскочило, вам нужно действовать очень быстро. Мы расскажем о том, как помочь себе или близким людям при резком скачке давления.",
+    "image": "images\\preview-chto-delat-esli-u-vas-vysokoe-davlenie.webp"
   },
   {
-    "slug": "raspisanie-avtobusa-37-v-minske",
-    "title": "Расписание автобуса №37 в Минске",
-    "intro": "В нашей жизни очень часто бывает так — мы опаздываем на работу или учебу, потому что не смогли успеть на нужный нам рейс общественного транспорта. И если это происходит из-за того, что вы просто проспали и опоздали за полчасика к началу работы/учебы, то тут ничего нельзя поделать… Но если же причина вашего запоздания кроется во временных затруднениях, связанных со сложным передвижением по городу без автомобиля (а ведь автомобиль есть у далеко не каждого), то вам обязательно пригодится информация о том, когда именно будет проходить ваш автобус!",
-    "image": "images\\preview-raspisanie-avtobusa-37-v-minske.webp"
+    "slug": "chto-delat-esli-vam-skuchno-nochju",
+    "title": "Что делать, если вам скучно ночью",
+    "intro": "Попробуйте устроить себе небольшой сеанс релаксации или займитесь любимым делом — и сон придёт быстрее.",
+    "image": "images\\preview-chto-delat-esli-vam-skuchno-nochju.webp"
   },
   {
-    "slug": "rejting-bojtsov-ufc-po-kategorijam",
-    "title": "Рейтинг бойцов UFC по категориям",
-    "intro": "В этом рейтинге нет места для интриг — только те, кто заслужил своё место в нём. И не важно, что у них вчера был проигрыш или они уже давно не выходили на ринг. Наша цель — показать реальную картину того, какие ребята стоят во главе рейтинга лучших бойцов смешанных единоборств мира.",
-    "image": "images\\preview-rejting-bojtsov-ufc-po-kategorijam.webp"
+    "slug": "chto-delat-esli-vas-obozhglo-solntse",
+    "title": "Что делать, если вас обожгло солнце",
+    "intro": "От простого обгорелого носа до серьёзных травм — в зависимости от степени поражения кожи можно прибегать к различным способам лечения или даже вызывать скорую помощь. В любом случае важно знать правила первой помощи для быстрой реакции на проблему. ",
+    "image": "images\\preview-chto-delat-esli-vas-obozhglo-solntse.webp"
   },
   {
-    "slug": "samaja-krasivaja-aktrisa-goda-po-versii-chitatelej-stilja-zhizni",
-    "title": "Самая красивая актриса года по версии читателей «Стиля жизни»",
-    "intro": "В прошлом году мы провели большое опросовское мероприятие — выбрали самую красивую актрису в мире среди наших читателей. И вот сегодня наступил новый год, а значит пришло время для нового голосавания! Так что же нас ждет? :)",
-    "image": "images\\preview-samaja-krasivaja-aktrisa-goda-po-versii-chitatelej-stilja-zhizni.webp"
+    "slug": "chto-delat-esli-vas-vyzyvajut-v-ugolovnyj-sud",
+    "title": "Что делать, если вас вызывают в уголовный суд",
+    "intro": "Узнайте заранее о своих правах и обязанностях.",
+    "image": "images\\preview-chto-delat-esli-vas-vyzyvajut-v-ugolovnyj-sud.webp"
   },
   {
-    "slug": "skolko-stoit-surrogatnaja-mat",
-    "title": "Сколько стоит суррогатная мать",
-    "intro": "В среднем за услугу просят от 300 тысяч рублей в Москве и не меньше полумиллиона — во многих других городах России. Но есть нюанс: стоимость может сильно отличаться в зависимости от региона. Рассказываем о ценах на суррогатное материнство для будущих родителей из разных городов страны.",
-    "image": "images\\preview-skolko-stoit-surrogatnaja-mat.webp"
+    "slug": "chto-delat-esli-vy-zabyli-svoju-pochtu",
+    "title": "Что делать, если вы забыли свою почту",
+    "intro": "Если вы не помните свои учётные записи для Gmail или другого сервиса электронной почты, то можно попробовать восстановить доступ к ним по различным подсказкам. В этой статье мы расскажем вам об этом подробнее.",
+    "image": "images\\preview-chto-delat-esli-vy-zabyli-svoju-pochtu.webp"
+  },
+  {
+    "slug": "chto-delat-esli-vzlomali-gosuslugi",
+    "title": "Что делать, если взломали Госуслуги",
+    "intro": "Сразу позвоните в банк и полицию — это поможет предотвратить возможные проблемы с деньгами или личными данными. А потом заблокируйте аккаунт через приложение «Госуслуги» на смартфоне.",
+    "image": "images\\preview-chto-delat-esli-vzlomali-gosuslugi.webp"
+  },
+  {
+    "slug": "chto-delat-kogda-ne-znaesh-chto-delat",
+    "title": "\"Что делать, когда не знаешь, что делать\"",
+    "intro": "Не зная, куда идти и на кого смотреть, можно потеряться в собственной голове или заблудиться по дороге к счастью. Что же нужно сделать? Поможет решение этого простого вопроса — «что я могу сделать прямо сейчас?»",
+    "image": "images\\preview-chto-delat-kogda-ne-znaesh-chto-delat.webp"
+  },
+  {
+    "slug": "chto-delat-nochju-esli-vy-muzhchina",
+    "title": "Что делать ночью, если вы мужчина",
+    "intro": "Если ваш день заканчивается на работе или в спортзале, не остаётся времени ни для чего другого. Но это совсем не повод грустить и просиживать вечера перед телевизором! Вот несколько вариантов того, как провести вечер более продуктивно.",
+    "image": "images\\preview-chto-delat-nochju-esli-vy-muzhchina.webp"
+  },
+  {
+    "slug": "chto-delat-po-signalu-vnimanie-vsem",
+    "title": "Что делать по сигналу \"Внимание всем!\"",
+    "intro": "Почти все мы знаем этот призыв — его используют в школах или на детских площадках перед тем, как начать важное мероприятие. Но если он прозвучит не во время урока труда, а когда вы находитесь за пределами безопасной территории школы, что вам следует сделать? Предлагаем вашему вниманию подробную инструкцию о том, что предпринять после сигнала «Внимание всем!».",
+    "image": "images\\preview-chto-delat-po-signalu-vnimanie-vsem.webp"
+  },
+  {
+    "slug": "chto-delat-posle-pristupa-epilepsii-u-cheloveka",
+    "title": "Что делать после приступа эпилепсии у человека",
+    "intro": "Не паникуйте, сохраняйте спокойствие и следуйте этим советам.",
+    "image": "images\\preview-chto-delat-posle-pristupa-epilepsii-u-cheloveka.webp"
+  },
+  {
+    "slug": "chto-delat-pri-boljah-v-pojasnitse-i-otravlenii",
+    "title": "Что делать при болях в пояснице и отравлении",
+    "intro": "Если вы чувствуете боль в спине или закипает живот после еды — это может указывать на проблемы со здоровьем. Рассказываем о распространённых недугах и способах их лечения.",
+    "image": "images\\preview-chto-delat-pri-boljah-v-pojasnitse-i-otravlenii.webp"
+  },
+  {
+    "slug": "chto-delat-rodstvennikam-posle-smerti-blizkogo-cheloveka",
+    "title": "Что делать родственникам после смерти близкого человека",
+    "intro": "Важные шаги помогут справиться со всеми сложностями в этот непростой период жизни.",
+    "image": "images\\preview-chto-delat-rodstvennikam-posle-smerti-blizkogo-cheloveka.webp"
+  },
+  {
+    "slug": "chto-interesnogo-mozhno-posmotret-v-kazani-i-innopolise",
+    "title": "Что интересного можно посмотреть в Казани и Иннополисе",
+    "intro": "Казанский Кремль — это само собой разумеется. А вот о том, какие ещё памятки стоит посетить навестив столицу Татарстана, мы расскажем вам ниже.",
+    "image": "images\\preview-chto-interesnogo-mozhno-posmotret-v-kazani-i-innopolise.webp"
+  },
+  {
+    "slug": "chto-nuzhno-znat-pri-otkrytii-ip",
+    "title": "Что нужно знать при открытии ИП",
+    "intro": "Пошаговая инструкция для тех, кто только собирается стать предпринимателем или хочет узнать больше о своей роли в этом процессе.",
+    "image": "images\\preview-chto-nuzhno-znat-pri-otkrytii-ip.webp"
+  },
+  {
+    "slug": "chto-oznachaet-chislo-4-10",
+    "title": "Что означает число 4 10",
+    "intro": "Вы можете встретить эту последовательность в различных ситуациях и не понимать её истинного смысла. Мы расскажем о нескольких вариантах точного прочтения этих цифр.",
+    "image": "images\\preview-chto-oznachaet-chislo-4-10.webp"
+  },
+  {
+    "slug": "chto-pit-pri-pankreatite",
+    "title": "Что пить при панкреатите",
+    "intro": "Не все жидкости безопасны для организма — некоторые могут усугубить проблему и вызвать осложнения. О том, какие напитки можно употреблять при остром или хроническом воспалении поджелудочной железы, читайте в нашей статье.",
+    "image": "images\\preview-chto-pit-pri-pankreatite.webp"
+  },
+  {
+    "slug": "chto-podarit-muzhchine-na-47-letie",
+    "title": "Что подарить мужчине на 47-летие?",
+    "intro": "Подарки для мужчин не должны ограничиваться только предметами первой необходимости или чем‑то практичным. Идеи ниже помогут вам сделать этот выбор!",
+    "image": "images\\preview-chto-podarit-muzhchine-na-47-letie.webp"
+  },
+  {
+    "slug": "chto-takoe-pogashenie-obligatsij-i-kupona-prostymi-slovami",
+    "title": "Что такое погашение облигаций и купона простыми словами",
+    "intro": "Объясняем на примере простого примера.",
+    "image": "images\\preview-chto-takoe-pogashenie-obligatsij-i-kupona-prostymi-slovami.webp"
+  },
+  {
+    "slug": "chto-takoe-trava-borschevik-i-chem-ona-opasna",
+    "title": "Что такое трава борщевик и чем она опасна",
+    "intro": "Неприглядная сорная трава может стать причиной серьёзных проблем для здоровья или даже смерти человека.",
+    "image": "images\\preview-chto-takoe-trava-borschevik-i-chem-ona-opasna.webp"
+  },
+  {
+    "slug": "chto-znachit-1488-prostymi-slovami",
+    "title": "Что значит 1488 простыми словами?",
+    "intro": "Это не просто набор цифр и букв — это целая идеология. Рассказываем подробнее о её значении и истории возникновения.",
+    "image": "images\\preview-chto-znachit-1488-prostymi-slovami.webp"
+  },
+  {
+    "slug": "data-vyhoda-gta-6",
+    "title": "Дата выхода GTA 6",
+    "intro": "Точной даты нет, но есть несколько вариантов.",
+    "image": "images\\preview-data-vyhoda-gta-6.webp"
+  },
+  {
+    "slug": "faktory-vlijajuschie-na-stoimost-osago",
+    "title": "Факторы, влияющие на стоимость ОСАГО",
+    "intro": "Для того чтобы узнать цену страховки, нужно знать эти параметры.",
+    "image": "images\\preview-faktory-vlijajuschie-na-stoimost-osago.webp"
+  },
+  {
+    "slug": "film-v-kotorom-nikogda-ne-byvaet-snega",
+    "title": "Фильм, в котором никогда не бывает снега",
+    "intro": "В «Человеке из сандука» много необычного снега — но это совсем другой тип осадков.",
+    "image": "images\\preview-film-v-kotorom-nikogda-ne-byvaet-snega.webp"
+  },
+  {
+    "slug": "gde-delajut-inn-inostrannomu-grazhdaninu-i-kak-ego-uznat",
+    "title": "Где делают ИНН иностранному гражданину и как его узнать",
+    "intro": "Если вы не резидент России, то у вас нет такого документа вроде паспорта или СНИЛСа. Но без него сложно купить билеты в театр и забронировать столик в ресторане. Вот что нужно знать об этом документе для иностранных граждан — чтобы получить Индивидуальный номер налогоплательщика (ИНН).",
+    "image": "images\\preview-gde-delajut-inn-inostrannomu-grazhdaninu-i-kak-ego-uznat.webp"
+  },
+  {
+    "slug": "gde-kupit-novuju-mashinu-i-ustanovit-nomera",
+    "title": "Где купить новую машину и установить номера",
+    "intro": "Выбирайте между салонами дилеров и специализированными магазинами в Сети. А ещё можно посмотреть варианты «почтой». Но будьте осторожны!",
+    "image": "images\\preview-gde-kupit-novuju-mashinu-i-ustanovit-nomera.webp"
+  },
+  {
+    "slug": "gde-kupit-samye-deshevye-bilety-rzhd",
+    "title": "Где купить самые дешевые билеты РЖД",
+    "intro": "Сравните цены на разные сайты и узнайте о самых выгодных предложениях.",
+    "image": "images\\preview-gde-kupit-samye-deshevye-bilety-rzhd.webp"
+  },
+  {
+    "slug": "gde-nahoditsja-kurort-el-alamejn-v-egipte",
+    "title": "Где находится курорт Эль-Аламейн в Египте",
+    "intro": "Расстояние от ближайшего аэропорта и особенности отдыха на этой популярной курорте.",
+    "image": "images\\preview-gde-nahoditsja-kurort-el-alamejn-v-egipte.webp"
+  },
+  {
+    "slug": "gde-najti-samye-deshevye-bilety-iz-moskvy-v-sankt-peterburg",
+    "title": "Где найти самые дешевые билеты из Москвы в Санкт-Петербург",
+    "intro": "Самолетом и поездом. А также сравните цены на гостиницы!",
+    "image": "images\\preview-gde-najti-samye-deshevye-bilety-iz-moskvy-v-sankt-peterburg.webp"
+  },
+  {
+    "slug": "gde-nelzja-kurit-gde-nedorogo-zakazat-kuhnju-i-kak-nazyvaetsja-mesto-golosovanija",
+    "title": "Где нельзя курить, где недорого заказать кухню и как называется место голосования",
+    "intro": "Мы подготовили для вас подборку самых интересных материалов этого дня. Все они — в вашей любимой ленте на временно закрытом «Дзен».",
+    "image": "images\\preview-gde-nelzja-kurit-gde-nedorogo-zakazat-kuhnju-i-kak-nazyvaetsja-mesto-golosovanija.webp"
+  },
+  {
+    "slug": "gde-otdohnut-v-abhazii",
+    "title": "Где отдохнуть в Абхазии",
+    "intro": "Октябрь — лучшее время для поездки в это маленькое государство на юге России и Кавказа. Тогда цены в отелях снижаются вдвое или даже больше. А вот что ещё вы сможете получить за свои деньги?",
+    "image": "images\\preview-gde-otdohnut-v-abhazii.webp"
+  },
+  {
+    "slug": "gde-razresheno-mnogozhenstvo",
+    "title": "Где разрешено многоженство",
+    "intro": "В некоторых странах полигамный брак не только возможен, но даже является нормой жизни. А в других — это запрет для всех граждан независимо от их вероисповедания или национальности. Но где же правда? И как вообще может существовать многожёнство? Мы расскажем о том.",
+    "image": "images\\preview-gde-razresheno-mnogozhenstvo.webp"
+  },
+  {
+    "slug": "gde-sejchas-idet-dozhd-v-rossii-a-gde-sneg",
+    "title": "Где сейчас идет дождь в России, а где снег",
+    "intro": "В южных регионах страны вновь ожидаются ливни и грозы.",
+    "image": "images\\preview-gde-sejchas-idet-dozhd-v-rossii-a-gde-sneg.webp"
+  },
+  {
+    "slug": "gde-sneg-kakoj-sneg-nadumannye-strahi-kotorye-pugajut-nas-zimoj",
+    "title": "«Где снег? Какой снег?» — надуманные страхи, которые пугают нас зимой",
+    "intro": "Почти каждый из этих явлений можно встретить даже в самых тёплых странах мира и при этом не умереть или заболеть. Но почему-то мы всё равно боимся их по той же причине, что когда‑то боялись грозы.",
+    "image": "images\\preview-gde-sneg-kakoj-sneg-nadumannye-strahi-kotorye-pugajut-nas-zimoj.webp"
+  },
+  {
+    "slug": "gde-to-daleko-idut-gribnye-dozhdi-pesnja-kotoraja-mozhet-zvuchat-vsegda",
+    "title": "«Где-то далеко идут грибные дожди» — песня, которая может звучать всегда",
+    "intro": "Открыли для себя новый трек группы «Аутентичные». Он про дождь. Про тот самый дождик на даче или в деревне у бабушки, который пахнет свежей зеленью и влажной землёй. А ещё о том, как приятно иногда просто сидеть дома под тёплым одеялом и слушать такой дождь.",
+    "image": "images\\preview-gde-to-daleko-idut-gribnye-dozhdi-pesnja-kotoraja-mozhet-zvuchat-vsegda.webp"
+  },
+  {
+    "slug": "gde-vzjat-dengi-esli-ne-v-banke",
+    "title": "Где взять деньги, если не в банке?",
+    "intro": "В современном мире практически никто уже не пользуется услугами банков. Банки стали настолько неповоротливыми и бюрократическими, что у многих людей просто нет желания обращаться к ним для получения займа или кредита на покупку жилья. Кроме того, банки очень требовательно относятся к своим клиентам – все хотят иметь беззаботную жизнь (при этом ничего делать по ее обеспечению не желая), а когда дело касается денег то тут же начинают орать про «нестабильный доход»! И поэтому многие люди предпочитают искать другие способы получить нужную сумму — это может быть кредит под документы, наличный заем у друзей или родственников, продажа ненужных вещей через интернет-базар, использование электронных кошельков, участие в различных финансовых программах и так далее. Если вам необходимо срочно найти источник средств и вы решили обратиться за помощью не в банк, то вот несколько вариантов действий. ",
+    "image": "images\\preview-gde-vzjat-dengi-esli-ne-v-banke.webp"
+  },
+  {
+    "slug": "govorjat-chto-prezident-putin-chto-segodnja-govorjat-o-nem",
+    "title": "«Говорят, что президент Путин…» — что сегодня говорят о нём",
+    "intro": "О том, как изменились взгляды людей на главу государства за последние годы и какими новостями он делился сам в этот день.",
+    "image": "images\\preview-govorjat-chto-prezident-putin-chto-segodnja-govorjat-o-nem.webp"
+  },
+  {
+    "slug": "instruktsija-kak-sozdat-biznes-plan",
+    "title": "Инструкция: как создать бизнес-план",
+    "intro": "Бизнес-планы в наше время стали популярными не только среди предпринимателей, но и обычных людей, которые хотят сделать свою жизнь комфортнее или более прибыльной за счет дополнительных доходов. В этом материале мы расскажем вам о том, что такое социальный контракт, где его можно получить, а также дадим подробную инструкцию по созданию вашего собственного плана развития. ",
+    "image": "images\\preview-instruktsija-kak-sozdat-biznes-plan.webp"
+  },
+  {
+    "slug": "kak-bezopasno-tormozit-na-rolikah-pri-spuske-s-gorki",
+    "title": "Как безопасно тормозить на роликах при спуске с горки",
+    "intro": "Чтобы не промахнуться мимо препятствия или удариться о землю лицом в пол.",
+    "image": "images\\preview-kak-bezopasno-tormozit-na-rolikah-pri-spuske-s-gorki.webp"
+  },
+  {
+    "slug": "kak-chinit-udochku-v-majnkrafte",
+    "title": "Как чинить удочку в Майнкрафте",
+    "intro": "Удочка — один из самых полезных инструментов для вылазок за рыбой или же добычи подводного грунта. Но если она ломается прямо во время рыбалки, как её можно отремонтировать? В этой статье мы расскажем вам об этом подробнее!",
+    "image": "images\\preview-kak-chinit-udochku-v-majnkrafte.webp"
+  },
+  {
+    "slug": "kak-govorit-vremja-na-anglijskom-jazyke",
+    "title": "Как говорить время на английском языке",
+    "intro": "Как правильно проговорить «четвертое число января» и сколько времени нужно ждать начала сериала? В этой статье вы найдёте ответы на эти вопросы. И узнаете множество других полезных фраз.",
+    "image": "images\\preview-kak-govorit-vremja-na-anglijskom-jazyke.webp"
+  },
+  {
+    "slug": "kak-ispravit-oshibki-v-discord-na-android",
+    "title": "Как исправить ошибки в Discord на Android",
+    "intro": "Ошибки могут возникать по множеству причин — неправильно настроенные параметры или устаревшие файлы системы. Но если вы попробуете выполнить несколько простых действий из нашего руководства, то сможете быстро их исправить.",
+    "image": "images\\preview-kak-ispravit-oshibki-v-discord-na-android.webp"
+  },
+  {
+    "slug": "kak-izbavitsja-ot-boli-v-shee-pri-povorote",
+    "title": "Как избавиться от боли в шее при повороте",
+    "intro": "Если вас беспокоит эта проблема уже давно — обратитесь к врачу-ортопеду или неврологу.",
+    "image": "images\\preview-kak-izbavitsja-ot-boli-v-shee-pri-povorote.webp"
+  },
+  {
+    "slug": "kak-izbavitsja-ot-tarakanov-navsegda",
+    "title": "Как избавиться от тараканов навсегда",
+    "intro": "Простые советы для тех, кто живет в квартире или доме на несколько этажей.",
+    "image": "images\\preview-kak-izbavitsja-ot-tarakanov-navsegda.webp"
+  },
+  {
+    "slug": "kak-izbavitsja-ot-vtorogo-podborodka-u-muzhchin-s-pomoschju-massazha",
+    "title": "Как избавиться от второго подбородка у мужчин с помощью массажа",
+    "intro": "Полезные советы для тех, кто хочет вернуть себе молодость.",
+    "image": "images\\preview-kak-izbavitsja-ot-vtorogo-podborodka-u-muzhchin-s-pomoschju-massazha.webp"
+  },
+  {
+    "slug": "kak-izmenit-tsvet-konkretnogo-obekta-v-photoshop",
+    "title": "Как изменить цвет конкретного объекта в Photoshop",
+    "intro": "Когда мы говорим о том, как изменить цвет того или другого предмета на фотографии, то имеем в виду не только его общий тон, но и детализацию этого цвета (например насыщенность). В этой статье я расскажу вам о простых способах изменения цвета объектов на фотографиях при помощи программы Adobe Photoshop CS 3. ",
+    "image": "images\\preview-kak-izmenit-tsvet-konkretnogo-obekta-v-photoshop.webp"
+  },
+  {
+    "slug": "kak-nachat-zarabatyvat-na-kriptovaljute-i-birzhe-novichku",
+    "title": "Как начать зарабатывать на криптовалюте и бирже новичку",
+    "intro": "Краткий гайд для тех, кто хочет попробовать свои силы в этом направлении, но не знает как это делать правильно.",
+    "image": "images\\preview-kak-nachat-zarabatyvat-na-kriptovaljute-i-birzhe-novichku.webp"
+  },
+  {
+    "slug": "kak-najti-film-o-kotorom-govorjat-no-ego-net-v-spiskah",
+    "title": "Как найти фильм, о котором говорят, но его нет в списках",
+    "intro": "Если вы стали свидетелем того, как люди восхищаются каким‑то фильмом или сериалом (особенно за последние несколько лет), то у вас наверняка возникает желание посмотреть этот шедевр самому. Но что делать? В списке популярных новинок этого произведения нигде не видно! :)",
+    "image": "images\\preview-kak-najti-film-o-kotorom-govorjat-no-ego-net-v-spiskah.webp"
+  },
+  {
+    "slug": "kak-nastroit-bios-ot-asus",
+    "title": "Как настроить BIOS от ASUS",
+    "intro": "Выбор производителя для комплектующих компьютера — дело вкуса (и кошелька). И в конечном итоге каждый выбирает что-то одно. Если же вы выбрали материнскую плату производства компании Asus, то вам следует обратить внимание на ее особенности, которые могут упростить вашу жизнь или наоборот сделать сложнее. Особое внимание стоит уделить настройкам биоса ASUS.",
+    "image": "images\\preview-kak-nastroit-bios-ot-asus.webp"
+  },
+  {
+    "slug": "kak-nastroit-vykljuchit-i-uskorit-video-na-iphone-16-otzyvy-polzovatelej",
+    "title": "Как настроить, выключить и ускорить видео на iPhone 16: отзывы пользователей",
+    "intro": "В iOS 20 появится возможность управлять скоростью воспроизведения роликов в YouTube и других сервисах. Вы уже успели попробовать? Расскажите о своём опыте!",
+    "image": "images\\preview-kak-nastroit-vykljuchit-i-uskorit-video-na-iphone-16-otzyvy-polzovatelej.webp"
+  },
+  {
+    "slug": "kak-obojti-google-na-android-ustrojstvah",
+    "title": "Как обойти Google на Android-устройствах",
+    "intro": "Если вы не хотите связывать свой смартфон или планшет с сервисами поискового гиганта, есть несколько способов это сделать без сторонних программ.",
+    "image": "images\\preview-kak-obojti-google-na-android-ustrojstvah.webp"
+  },
+  {
+    "slug": "kak-odetsja-na-svadbu-sovety-dlja-gostej",
+    "title": "Как одеться на свадьбу: советы для гостей",
+    "intro": "Нарядные платья и классические костюмы — это уже не самое актуальное в моде свадебной одежды. В последние годы всё чаще встречается интересная одежда и стильные образы у мужчин и женщин, которые выглядят очень уместно даже на таком торжественном событии как свадьба.",
+    "image": "images\\preview-kak-odetsja-na-svadbu-sovety-dlja-gostej.webp"
+  },
+  {
+    "slug": "kak-oformit-ip-cherez-gosuslugi-poshagovaja-instruktsija",
+    "title": "Как оформить ИП через Госуслуги: пошаговая инструкция",
+    "intro": "Процедура занимает всего несколько минут в зависимости от наличия всех документов на руках или их необходимости получения.",
+    "image": "images\\preview-kak-oformit-ip-cherez-gosuslugi-poshagovaja-instruktsija.webp"
+  },
+  {
+    "slug": "kak-oformit-zhalobu",
+    "title": "Как оформить жалобу",
+    "intro": "Своевременная и грамотно составленная претензия поможет добиться желаемого результата быстрее. А если нет — получить хотя бы компенсацию за моральный ущерб.",
+    "image": "images\\preview-kak-oformit-zhalobu.webp"
+  },
+  {
+    "slug": "kak-oplatit-nalog-6-mu-ip",
+    "title": "Как оплатить налог 6-му ИП",
+    "intro": "Отправьте деньги в ФНС через банк или «Госуслуги». Но не забудьте предварительно узнать точные реквизиты для перевода денег!",
+    "image": "images\\preview-kak-oplatit-nalog-6-mu-ip.webp"
+  },
+  {
+    "slug": "kak-opredelit-model-noutbuka-asus",
+    "title": "Как определить модель ноутбука Asus",
+    "intro": "В этой статье мы расскажем вам о том, как можно легко идентифицировать вашу конкретную модель ноутбука ASUS для того чтобы вы могли получить всю необходимую информацию по характеристикам, установленной операционной системе и программному обеспечению или в случае необходимости заказать нужные запчасти или аксессуары для вашего лэптопа. ",
+    "image": "images\\preview-kak-opredelit-model-noutbuka-asus.webp"
+  },
+  {
+    "slug": "kak-ostavit-otzyv-o-magazine-i-chto-pishut-pokupateli",
+    "title": "Как оставить отзыв о магазине и что пишут покупатели",
+    "intro": "О товарах-услугах магазинов написано много всего хорошего — в рекламных статьях, обзоров на сайтах, рекламах по ТВ или радио. Но мало кто рассказывает правду. Покупая продукт онлайн, вы можете получить совершенно не то, чего ожидали. И как это узнать заранее? Заглянуть на странички магазина в соцсетях можно только после совершения покупки (а они обычно содержат фотографии счастливых клиентов). А вот настоящие отзывы читают те люди, которые уже приобрели товар из интернета. Как найти эти самые отзывы и сколько им верить? Рассказываем!",
+    "image": "images\\preview-kak-ostavit-otzyv-o-magazine-i-chto-pishut-pokupateli.webp"
+  },
+  {
+    "slug": "kak-otuchit-rebenka-gryzt-ruki",
+    "title": "Как отучить ребенка грызть руки",
+    "intro": "Простые советы помогут избежать раздражения кожи у малыша или предотвратить развитие неприятной привычки на будущее.",
+    "image": "images\\preview-kak-otuchit-rebenka-gryzt-ruki.webp"
+  },
+  {
+    "slug": "kak-pereustanovit-igru-ne-ispolzuja-steam",
+    "title": "Как переустановить игру, не используя Steam",
+    "intro": "Я уже писал о том, как сделать бэкап своих любимых компьютерных игр на жесткий диск компьютера или внешний накопитель (а потом восстанавливать их), если вдруг выйдет из строя ваш основной системный блок или накопитель. Идея была в создании архива файлов установки — теперь же я расскажу вам об обратном процессе. То есть мы будем искать способ удаления всех следов программы со своего ПК, при этом полностью сохранив файлы для последующей ее инсталляции.",
+    "image": "images\\preview-kak-pereustanovit-igru-ne-ispolzuja-steam.webp"
+  },
+  {
+    "slug": "kak-pochinit-gnezdo-telefona-i-vspomnit-graficheskij-kljuch",
+    "title": "Как починить гнездо телефона и вспомнить графический ключ",
+    "intro": "Проблемы возникают у всех людей, но не каждый из них способен самостоятельно их решить. Недавно я столкнулся с одной такой проблемой — сломанное гнездо для зарядки моего старого мобильного телефона. Да, именно так! Мобильный на моей памяти ремонтировали только в сервисных центрах или мастерских по ремонту техники (вспоминаю времена, когда это было обычным делом). Но, как оказалось, сделать это можно даже дома за несколько минут при наличии нужных инструментов и немного терпения. ;)",
+    "image": "images\\preview-kak-pochinit-gnezdo-telefona-i-vspomnit-graficheskij-kljuch.webp"
+  },
+  {
+    "slug": "kak-pochinit-samuju-medlennuju-mashinu-v-gta-5",
+    "title": "Как починить самую медленную машину в GTA 5",
+    "intro": "Недовольные игроки жалуются на то, что в ГТА Онлайн не могут найти подходящую тачку по своему вкусу. А если нашли — она какая-то развалившаяся или слишком дорогая для их кошелька. Впрочем, всегда можно просто взять её у кого-нибудь… и сделать себе!",
+    "image": "images\\preview-kak-pochinit-samuju-medlennuju-mashinu-v-gta-5.webp"
+  },
+  {
+    "slug": "kak-podat-zajavlenie-na-bankrotstvo-i-nastroit-zerkala-v-mashine",
+    "title": "Как подать заявление на банкротство и настроить зеркала в машине",
+    "intro": "На самом деле это не так сложно, как кажется. Только правильно оформив документы или отрегулировав зеркала, вы сможете избежать проблем за рулём.",
+    "image": "images\\preview-kak-podat-zajavlenie-na-bankrotstvo-i-nastroit-zerkala-v-mashine.webp"
+  },
+  {
+    "slug": "kak-podkljuchit-jandekspljus-za-rubl",
+    "title": "Как подключить Яндекс.Плюс за рубль",
+    "intro": "Подписку можно оформить на три месяца со скидкой в размере 97%.",
+    "image": "images\\preview-kak-podkljuchit-jandekspljus-za-rubl.webp"
+  },
+  {
+    "slug": "kak-podkljuchit-konditsioner-k-alise-i-uznat-kakoj-segodnja-den",
+    "title": "Как подключить кондиционер к Алисе и узнать, какой сегодня день",
+    "intro": "Спросите виртуального ассистента об этом в любой удобный момент на устройстве «Яндекс».",
+    "image": "images\\preview-kak-podkljuchit-konditsioner-k-alise-i-uznat-kakoj-segodnja-den.webp"
+  },
+  {
+    "slug": "kak-popast-v-biznes-zal-s-pomoschju-karty-tinkoff-premium",
+    "title": "Как попасть в бизнес-зал с помощью карты Тинькофф Премиум",
+    "intro": "Потребуется лишь один день использования карт или транзакций на сумму более тысячи рублей.",
+    "image": "images\\preview-kak-popast-v-biznes-zal-s-pomoschju-karty-tinkoff-premium.webp"
+  },
+  {
+    "slug": "kak-popolnjat-koshelek-steam-v-2023-godu",
+    "title": "Как пополнять кошелёк Steam в 2023 году",
+    "intro": "Ищете способ добавить средства на счёт в сервисе? Ознакомьтесь со списком актуальных вариантов для владельцев аккаунтов из России и стран СНГ.",
+    "image": "images\\preview-kak-popolnjat-koshelek-steam-v-2023-godu.webp"
+  },
+  {
+    "slug": "kak-poschitat-ploschad-doma",
+    "title": "Как посчитать площадь дома",
+    "intro": "Узнайте всё о расчете объема и площади вашего жилья.",
+    "image": "images\\preview-kak-poschitat-ploschad-doma.webp"
+  },
+  {
+    "slug": "kak-pravilno-podobrat-vitamin-d",
+    "title": "Как правильно подобрать витамин Д",
+    "intro": "Не все добавки одинаково полезны для организма и могут нанести вред здоровью. Если вы решите принимать эту популярную среди населения добавку, то обязательно проконсультируйтесь со специалистом перед началом курса приёма или его изменением в будущем. Ведь неправильный выбор препарата может привести к проблемам не только у вас, но и у вашего ребёнка!",
+    "image": "images\\preview-kak-pravilno-podobrat-vitamin-d.webp"
+  },
+  {
+    "slug": "kak-pravilno-sostavit-raspisanie-zvonkov-kakie-slova-zaprescheny-v-shkole-i-gde-shkolnik-mozhet-podrabotat",
+    "title": "Как правильно составить расписание звонков, какие слова запрещены в школе и где школьник может подработать",
+    "intro": "Все это поможет вам сохранить нервы на долгие годы. А также не попасться на штрафных санкциях за нарушение дисциплины.",
+    "image": "images\\preview-kak-pravilno-sostavit-raspisanie-zvonkov-kakie-slova-zaprescheny-v-shkole-i-gde-shkolnik-mozhet-podrabotat.webp"
+  },
+  {
+    "slug": "kak-preodolet-prepjatstvija-v-minecraft",
+    "title": "Как преодолеть препятствия в Minecraft",
+    "intro": "Если вы читаете этот пост, то это значит что у вас есть не только интерес к игре MineCraft, но и желание ее проходить. Это очень хороший показатель вашего уровня развития! А теперь самое главное – как пройти ту или иную локацию? Простейший способ — построить лестницу из блоков по бокам стены и залезть наверх… Но это простое решение подходит далеко не всегда. Давайте разберемся со всеми возможными ситуациями, когда вам нужно будет перебраться через преграду. ",
+    "image": "images\\preview-kak-preodolet-prepjatstvija-v-minecraft.webp"
+  },
+  {
+    "slug": "kak-projti-biblioteku-v-igre-dors",
+    "title": "Как пройти библиотеку в игре «DORS»",
+    "intro": "В нашей первой статье о необычной аркадной головоломке DORS мы уже рассказывали об особенностях игрового процесса — механизмах взаимодействия объектов друг с другом, а также принципах их использования для решения задач на каждом из доступных вам ранее по сюжету локаций. Сегодня же вы узнаете, как проходить отдельные сложные участки игры. А начнем мы со всех тех самых библиотек, которые так ненавидит главный герой Дорес… :)",
+    "image": "images\\preview-kak-projti-biblioteku-v-igre-dors.webp"
+  },
+  {
+    "slug": "kak-projti-minecraft-na-telefone-i-postroit-vse-chto-ugodno-dazhe-na-patsifiste",
+    "title": "Как пройти Minecraft на телефоне и построить всё, что угодно, даже на пацифисте",
+    "intro": "Мало кто задумывается о том, сколько времени он тратит на игру в Minecraft. И если вы играете только через компьютер или консоль, то можете гордиться собой за свою самоконтролируемость. Но когда у вас есть возможность поиграть где-нибудь в метрополитене, во время поездки домой, а также сидя дома перед телевизором, можно потеряться из виду минимум на несколько часов! В этой статье мы расскажем вам, как играть в «Маинкрафте» без проблем и ограничений, а самое главное — строить самые невероятные вещи на свете.",
+    "image": "images\\preview-kak-projti-minecraft-na-telefone-i-postroit-vse-chto-ugodno-dazhe-na-patsifiste.webp"
+  },
+  {
+    "slug": "kak-proverit-balans-karty-ili-sertifikata-v-riv-gosh",
+    "title": "Как проверить баланс карты или сертификата в «Рив Гош»",
+    "intro": "Для этого можно воспользоваться как онлайн-сервисом на сайте сети магазинов косметики и парфюмерии, так и мобильным приложением.",
+    "image": "images\\preview-kak-proverit-balans-karty-ili-sertifikata-v-riv-gosh.webp"
+  },
+  {
+    "slug": "kak-proverit-balans-karty-jandekspej",
+    "title": "Как проверить баланс карты Яндекс.Пэй",
+    "intro": "Сделать это можно в приложении или на сайте сервиса.",
+    "image": "images\\preview-kak-proverit-balans-karty-jandekspej.webp"
+  },
+  {
+    "slug": "kak-proverit-shtrafy-gibdd-po-pravam-voditelskomu-udostovereniju-avtomobilju-i-po-familii",
+    "title": "Как проверить штрафы ГИБДД по правам, водительскому удостоверению, автомобилю и по фамилии",
+    "intro": "Найти неоплаченные квитанции можно разными способами — главное выбрать тот, который вам удобнее всего.",
+    "image": "images\\preview-kak-proverit-shtrafy-gibdd-po-pravam-voditelskomu-udostovereniju-avtomobilju-i-po-familii.webp"
+  },
+  {
+    "slug": "kak-razgovarivat-s-devushkoj",
+    "title": "Как разговаривать с девушкой",
+    "intro": "Если вы уже достаточно давно не общались с противоположным полом или просто хотите улучшить свои коммуникативные навыки при знакомстве — эта статья для вас! Узнайте несколько простых правил ведения беседы на вечеринке, в клубе или кафе. :)",
+    "image": "images\\preview-kak-razgovarivat-s-devushkoj.webp"
+  },
+  {
+    "slug": "kak-razgovarivat-s-kem-ugodno-i-kak-perestat-bespokoitsja-i-nachat-zhit",
+    "title": "«Как разговаривать с кем угодно» и «Как перестать беспокоиться и начать жить»",
+    "intro": "Эти книги помогут вам наладить отношения с людьми вокруг и избавиться от тревожных мыслей о будущем.",
+    "image": "images\\preview-kak-razgovarivat-s-kem-ugodno-i-kak-perestat-bespokoitsja-i-nachat-zhit.webp"
+  },
+  {
+    "slug": "kak-razvejat-skuku-v-derevne-ili-v-kompanii-devushki",
+    "title": "Как развеять скуку в деревне или в компании девушки",
+    "intro": "Поездка на дачу не обязательно означает полный отдых. Иногда она может превратиться в настоящий кошмар. Например, если вы отправились в гости к родственникам за несколько дней до свадьбы вашей подруги-крестной мамы (и у вас нет никакого отношения к этой семье), то ваш единственный шанс — это как можно быстрее вернуться домой из этого адского места под предлогом болезни близкого человека :)",
+    "image": "images\\preview-kak-razvejat-skuku-v-derevne-ili-v-kompanii-devushki.webp"
+  },
+  {
+    "slug": "kak-razvlech-sebja-esli-nichego-ne-hochetsja-delat",
+    "title": "Как развлечь себя, если ничего не хочется делать",
+    "intro": "Даже в самый скучный день можно найти себе увлекательное занятие. Вот несколько идей для вдохновения.",
+    "image": "images\\preview-kak-razvlech-sebja-esli-nichego-ne-hochetsja-delat.webp"
+  },
+  {
+    "slug": "kak-smotret-video-na-youtube-s-noutbuka",
+    "title": "Как смотреть видео на YouTube с ноутбука",
+    "intro": "В предыдущих статьях мы говорили о том как можно подключать различные устройства к компьютеру (телевизоры, игровые приставки). Сегодня хочу рассказать вам о другом устройстве — это мобильный телефон или смартфон. С помощью такого подключения вы сможете не только просматривать фотографии и слушать музыку со смартфона в высоком качестве на большом экране вашего ПК, но также можете использовать его для просмотра любых других файлов. ",
+    "image": "images\\preview-kak-smotret-video-na-youtube-s-noutbuka.webp"
+  },
+  {
+    "slug": "kak-sozdat-kanal-v-telegram-15-poleznyh-instruktsij",
+    "title": "Как создать канал в Telegram: 15 полезных инструкций",
+    "intro": "О том, как создавать каналы, делиться информацией с подписчиками, а также получать отзывы аудитории.",
+    "image": "images\\preview-kak-sozdat-kanal-v-telegram-15-poleznyh-instruktsij.webp"
+  },
+  {
+    "slug": "kak-sozdat-svoj-sajt-ili-prilozhenie-besplatno",
+    "title": "Как создать свой сайт или приложение бесплатно",
+    "intro": "Если вы хотите сделать что-то для себя в интернете — будь то блог о ваших увлечениях или мобильное приложение для вашего хобби — есть множество способов это осуществить абсолютно безвозмездно. Сделать себе сайт можно при помощи специальных бесплатных сервисов. Создавать же свои собственные игры и программы не так просто, но всё возможно! :)",
+    "image": "images\\preview-kak-sozdat-svoj-sajt-ili-prilozhenie-besplatno.webp"
+  },
+  {
+    "slug": "kak-spat-na-spine-i-kak-eto-delaet-bolshinstvo",
+    "title": "Как спать на спине и как это делает большинство",
+    "intro": "Попробуйте эти простые приёмы — и засыпая в вертикальном положении, вы проснётесь бодрым утром.",
+    "image": "images\\preview-kak-spat-na-spine-i-kak-eto-delaet-bolshinstvo.webp"
+  },
+  {
+    "slug": "kak-spat-v-igre-7-days-to-die",
+    "title": "Как спать в игре 7 Days to Die",
+    "intro": "Сон — это важная часть жизни человека (а также всех живых существ), не исключая выживальщиков из мира игр вроде 7 Days to Die. В этой статье мы расскажем вам о том, как же правильно спасть в данной игре. Все очень просто! Но есть свои нюансы, которые стоит учитывать для того чтобы ваш персонаж получил отдых а не стал легкой добычей зомби или голодной волчьи стаи. А так же расскажем немного об игровом процессе и дадим несколько советов по прохождению.",
+    "image": "images\\preview-kak-spat-v-igre-7-days-to-die.webp"
+  },
+  {
+    "slug": "kak-stat-turistom-v-amerike",
+    "title": "Как стать туристом в Америке",
+    "intro": "Поездки за рубеж давно не являются чем-то экзотическим и редким – многие отправляются путешествовать по миру каждый год или даже несколько раз. В этой статье мы расскажем вам об особенностях того, как совершить поездку именно в США, где количество туристов превышает население страны почти на порядок больше!",
+    "image": "images\\preview-kak-stat-turistom-v-amerike.webp"
+  },
+  {
+    "slug": "kak-tormozit-dvigatelem-na-mehanicheskoj-korobke-peredach",
+    "title": "Как тормозить двигателем на механической коробке передач",
+    "intro": "Правильно организованное и контролируемое замедление помогает снижать нагрузку на систему автомобиля, а значит — продлевать срок её службы. Также оно позволяет экономить топливо и время за рулём. Однако без должного опыта лучше не экспериментировать.",
+    "image": "images\\preview-kak-tormozit-dvigatelem-na-mehanicheskoj-korobke-peredach.webp"
+  },
+  {
+    "slug": "kak-ubrat-reklamu-s-youtube",
+    "title": "Как убрать рекламу с YouTube",
+    "intro": "Несколько способов избавиться от рекламных роликов на смартфоне или планшете под управлением Android.",
+    "image": "images\\preview-kak-ubrat-reklamu-s-youtube.webp"
+  },
+  {
+    "slug": "kak-ubrat-sinjaki-pod-glazami-sovety-i-rekomendatsii",
+    "title": "Как убрать синяки под глазами: советы и рекомендации",
+    "intro": "В статье вы найдёте несколько простых способов избавиться от некрасивых тёмных кругов — проверенных на практике и доступных в домашних условиях.",
+    "image": "images\\preview-kak-ubrat-sinjaki-pod-glazami-sovety-i-rekomendatsii.webp"
+  },
+  {
+    "slug": "kak-ubrat-zhir-s-zhivota",
+    "title": "Как убрать жир с живота",
+    "intro": "В этой статье вы узнаете несколько советов о том, как избавиться от лишнего веса на животе и сделать свою фигурку более привлекательной. ",
+    "image": "images\\preview-kak-ubrat-zhir-s-zhivota.webp"
+  },
+  {
+    "slug": "kak-uvelichit-limit-na-karte-banka-psb",
+    "title": "Как увеличить лимит на карте банка ПСБ",
+    "intro": "Для этого нужно лишь немного подождать или позвонить в банк.",
+    "image": "images\\preview-kak-uvelichit-limit-na-karte-banka-psb.webp"
+  },
+  {
+    "slug": "kak-uznat-svoi-nalogi-i-inn",
+    "title": "Как узнать свои налоги и инн",
+    "intro": "С недавнего времени у каждого гражданина нашей страны появился доступ к информации о своих доходах в интернете (естественно при наличии доступа к интернету). Если вы хотите узнать свой настоящий доход или просто разобраться во всех тонкостях налогообложения, то вам стоит посетить этот замечательный сервис Федеральной Налоговой Службы России, который называется «Оплата Пошлин». ",
+    "image": "images\\preview-kak-uznat-svoi-nalogi-i-inn.webp"
+  },
+  {
+    "slug": "kak-uznat-svoj-inn-i-snils",
+    "title": "Как узнать свой ИНН и СНИЛС",
+    "intro": "Эти документы нужны практически всем гражданам России, но многие не знают их идентификационные данные или потеряли эти бумаги. Поможем разобраться в том, как найти информацию о своём ИФНС (ИНН) и СНИЛСе.",
+    "image": "images\\preview-kak-uznat-svoj-inn-i-snils.webp"
+  },
+  {
+    "slug": "kak-vkljuchit-russkij-jazyk-na-youtube",
+    "title": "Как включить русский язык на YouTube",
+    "intro": "Чтобы смотреть русскоязычные ролики без ограничений по региону, нужно всего лишь настроить сервис для работы со своим родным языком. Для этого достаточно изменить некоторые системные или веб-сервисные параметры — в зависимости от того, где вы находитесь и что хотите получить. На самом деле всё очень просто! Главное — правильно разобраться. Вот как это сделать. :)",
+    "image": "images\\preview-kak-vkljuchit-russkij-jazyk-na-youtube.webp"
+  },
+  {
+    "slug": "kak-vojti-v-bios-materinskoj-platy",
+    "title": "Как войти в BIOS материнской платы",
+    "intro": "В статье «Настройка параметров компьютера» мы упоминали о том, что перед началом работы на компьютере можно настроить некоторые его основные параметры (например — порядок загрузки дисков). Для этого необходимо запустить программу установки операционной системы или специальную утилиту для редактирования конфигурации аппаратных средств ПК, которая называется BIOS. ",
+    "image": "images\\preview-kak-vojti-v-bios-materinskoj-platy.webp"
+  },
+  {
+    "slug": "kak-vojti-v-bios-na-materinskoj-plate-gigabyte",
+    "title": "Как войти в BIOS на материнской плате Gigabyte",
+    "intro": "Подробная пошаговая инструкция для самых разных моделей системных плат этой компании.",
+    "image": "images\\preview-kak-vojti-v-bios-na-materinskoj-plate-gigabyte.webp"
+  },
+  {
+    "slug": "kak-vojti-v-bios-na-noutbuke-acer-aspire",
+    "title": "Как войти в BIOS на ноутбуке Acer Aspire",
+    "intro": "Инструкцию для нескольких популярных моделей этой серии вы найдёте ниже. Для других читайте подробную версию этого гайда.",
+    "image": "images\\preview-kak-vojti-v-bios-na-noutbuke-acer-aspire.webp"
+  },
+  {
+    "slug": "kak-vojti-v-mailru-esli-u-vas-net-akkaunta-vk-id",
+    "title": "Как войти в Mail.ru, если у вас нет аккаунта VK ID",
+    "intro": "Вчера мы уже писали о том, как получить доступ к почте на «Mail.Ru» при помощи своего аккаунта в социальной сети “ВКонтакте”. Однако некоторые пользователи предпочитают использовать разные сервисы для разных целей и не хотят связывать свои личные данные со сторонними социальными сетями. Но даже такой пользователь может без труда авторизоваться под своей учетной записью. Для этого вам понадобится только свой e-mail адрес (тот же самый, что вы указываете при регистрации) и пароль — вот как это сделать!",
+    "image": "images\\preview-kak-vojti-v-mailru-esli-u-vas-net-akkaunta-vk-id.webp"
+  },
+  {
+    "slug": "kak-vstavat-v-8-utra-chtoby-byt-produktivnym",
+    "title": "Как вставать в 8 утра, чтобы быть продуктивным",
+    "intro": "Секреты хорошего пробуждения и поддержания энергии в течение дня.",
+    "image": "images\\preview-kak-vstavat-v-8-utra-chtoby-byt-produktivnym.webp"
+  },
+  {
+    "slug": "kak-vybrat-mezhdu-samsung-i-iphone",
+    "title": "Как выбрать между Samsung и iPhone?",
+    "intro": "Если вы читаете этот пост в первый раз — у вас есть два варианта развития событий. Во-первых, ваш смартфон сломался или устарел настолько сильно, что не стоит ремонтировать его больше, а во-вторых, вам просто хочется обновить свой гаджет на новую модель последнего поколения. В любом случае перед вами встает непростой вопрос о выборе новой «игрушки». И если раньше все было довольно понятно (а кто тогда вообще покупал Samsung?), то сейчас ситуация кардинально изменилась. С каждым годом флагманские аппараты компании из Южной Кореи становятся всё лучше, они предлагают пользователям отличную камеру, мощный процессор и даже привлекательный внешний вид. Теперь вот только остается решить, какой же телефон купить? На это может ответить лишь одно слово – «просто»! Выбирайте тот аппарат который понравится именно вам, но прежде чем сделать окончательный вывод давайте рассмотрим некоторые особенности обоих производителей более детально.",
+    "image": "images\\preview-kak-vybrat-mezhdu-samsung-i-iphone.webp"
+  },
+  {
+    "slug": "kak-vychislit-1-kub",
+    "title": "Как вычислить 1 куб",
+    "intro": "Представьте себе такую задачу: нужно узнать объем параллелепипеда со сторонами длиной в один сантиметр каждый. Вроде бы все просто — умножаем три стороны друг на друга (то есть одну на другую и результат снова на третью), но если представить это как формулу, то получим что-то не очень понятное для человека без знаний алгебры. Если же мы переведем эту задачу из «человеческой» формы записи чисел в компьютерную, то она станет еще более непонятной. И дело здесь вовсе не в сложности самого расчета, а в том, что числа представляют собой строки символов, которые можно интерпретировать по-разному. ",
+    "image": "images\\preview-kak-vychislit-1-kub.webp"
+  },
+  {
+    "slug": "kak-vygljadjat-pogony-starshego-politsejskogo-i-staryj-polis",
+    "title": "Как выглядят погоны старшего полицейского и старый полис",
+    "intro": "Узнайте об этом из нового видео «Погони». В нём автор канала рассказывает о внешнем виде современных сотрудников полиции в России и сравнивает их со старомодными прототипами. Вы узнаете много интересного про форму по-старому и поновему, а также особенности одежды разных рангов.",
+    "image": "images\\preview-kak-vygljadjat-pogony-starshego-politsejskogo-i-staryj-polis.webp"
+  },
+  {
+    "slug": "kak-vygljadjat-starye-i-novye-dollary",
+    "title": "Как выглядят старые и новые доллары",
+    "intro": "Процесс печати новых долларов выглядит так же, как в XIX веке — только теперь он полностью автоматизированный. Мы собрали фотографии бумажных денег разных годов выпуска для того, чтобы вы могли увидеть эволюцию дизайна доллара США за последние два столетия. В конце мы также покажем вам несколько исторических монет.",
+    "image": "images\\preview-kak-vygljadjat-starye-i-novye-dollary.webp"
+  },
+  {
+    "slug": "kak-vykljuchit-iphone-pro-max",
+    "title": "Как выключить iPhone Pro Max",
+    "intro": "Несколько простых способов при разных сценариях использования устройства.",
+    "image": "images\\preview-kak-vykljuchit-iphone-pro-max.webp"
+  },
+  {
+    "slug": "kak-zarabotat-na-sklade-vajldberriz-i-ozon",
+    "title": "Как заработать на складе «Вайлдберриз» и «Озон»",
+    "intro": "Рассказываем про две вакансии для тех, кто не боится физической работы и хочет получать твёрдый доход. Насколько они выгодны? Сколько можно заработать в месяц? И какие условия труда предлагают компании.",
+    "image": "images\\preview-kak-zarabotat-na-sklade-vajldberriz-i-ozon.webp"
+  },
+  {
+    "slug": "kak-zaregistrirovatsja-na-rejs-v-kompanii-flaj",
+    "title": "Как зарегистрироваться на рейс в компании «Флай»",
+    "intro": "На сайте любой авиакомпании есть раздел “Регистрация”. В нем вы сможете заранее сделать все необходимые шаги и получить посадочный талон перед самым полетом. Рекомендуется это делать за два часа (для внутренних рейсов) или три часа (международных). Заранее подготовить вещи для провоза не обязательно – багаж можно будет сдать непосредственно в аэропорту при регистрации по вашему паспорту и билетам всех пассажиров вашего рейса. Так что останется только прибыть вовремя к стойке вашей авиалинии и пройти процедуру оформления документов. И вот как это происходит у «флая».",
+    "image": "images\\preview-kak-zaregistrirovatsja-na-rejs-v-kompanii-flaj.webp"
+  },
+  {
+    "slug": "kak-zaregistrirovatsja-na-vb-kak-individualnyj-predprinimatel",
+    "title": "Как зарегистрироваться на «ВБ» как индивидуальный предприниматель",
+    "intro": "Для этого не нужно стоять в очереди и собирать кучу бумаг. Понадобится только СНИЛС или ИНН.",
+    "image": "images\\preview-kak-zaregistrirovatsja-na-vb-kak-individualnyj-predprinimatel.webp"
+  },
+  {
+    "slug": "kak-zhit-i-ne-rabotat",
+    "title": "Как жить и не работать?",
+    "intro": "У многих людей в современном мире есть ощущение, что они живут наполовину своей жизнью. С самого детства их заставляют ходить на уроки, потом идти учиться дальше или устраиваться на работу по окончанию школы/университета, а затем всю оставшуюся часть своего существования просто выживать. Нас учат делать вещи только ради работы (и это самое большое заблуждение), но как нам тогда понять, чем мы можем заниматься для себя? Как найти то единственное занятие, которое будет приносить вам радость и удовлетворение даже без оглядки на возможный доход? В этой статье я расскажу про несколько способов такой жизни.",
+    "image": "images\\preview-kak-zhit-i-ne-rabotat.webp"
+  },
+  {
+    "slug": "kakaja-kasha-samaja-poleznaja-dlja-zdorovja-i-zheludka",
+    "title": "Какая каша самая полезная для здоровья и желудка",
+    "intro": "Как выбрать идеальный вариант на каждый день — в нашей подборке. Какую из них выберете? Делитесь своими любимыми вариантами! 😉👇",
+    "image": "images\\preview-kakaja-kasha-samaja-poleznaja-dlja-zdorovja-i-zheludka.webp"
+  },
+  {
+    "slug": "kakoj-samyj-bystryj-poezd-v-mire",
+    "title": "Какой самый быстрый поезд в мире?",
+    "intro": "Я не так часто езжу на поезде и больше предпочитаю летать самолетом или автомобилем (хотя вождение мне надоедает), но тем не менее всегда интересно узнать о самых необычных способах передвижения людей вокруг нашей планеты. Например, я уже знаю про самый длинный автомобиль в мире, а теперь узнал про самые быстрые поезда! ",
+    "image": "images\\preview-kakoj-samyj-bystryj-poezd-v-mire.webp"
+  },
+  {
+    "slug": "kakoj-segodnja-den-v-rossii",
+    "title": "Какой сегодня день в России?",
+    "intro": "В стране — День Святой Троицы и православная Крещатина. А ещё у нас дождь будет почти везде!",
+    "image": "images\\preview-kakoj-segodnja-den-v-rossii.webp"
+  },
+  {
+    "slug": "kogda-luchshe-otdyhat-na-more-pokupat-kvartiru-i-prodavat-ee-posle-nasledovanija",
+    "title": "Когда лучше отдыхать на море, покупать квартиру и продавать её после наследования",
+    "intro": "Несколько советов для тех, кто хочет выгодно купить или продать жильё во Вьетнаме.",
+    "image": "images\\preview-kogda-luchshe-otdyhat-na-more-pokupat-kvartiru-i-prodavat-ee-posle-nasledovanija.webp"
+  },
+  {
+    "slug": "kogda-mozhno-sazhat-rebenka-na-perednee-sidene-i-kogda-rastajal-sneg",
+    "title": "Когда можно сажать ребёнка на переднее сиденье и когда растаял снег",
+    "intro": "Пора бы уже завести детей в школу или детский сад — если вы ещё этого не сделали! А после первых занятий пора отправиться гулять по парку без зимних шапок и шарфов. Смело доставайте из шкафа летнюю одежду для всей семьи. В этом году мы точно переживём тёплое лето. Но что делать со всеми вещами? Как избавиться от лишнего хлама? На эти вопросы отвечает Марина Мельник, основательница сервиса «Мамин помощник».",
+    "image": "images\\preview-kogda-mozhno-sazhat-rebenka-na-perednee-sidene-i-kogda-rastajal-sneg.webp"
+  },
+  {
+    "slug": "kogda-vyjdet-iphone-17",
+    "title": "Когда выйдет iPhone 17?",
+    "intro": "Новая модель получит в подарок поддержку Wi-Fi 8 (Wi‑Fi 9).",
+    "image": "images\\preview-kogda-vyjdet-iphone-17.webp"
+  },
+  {
+    "slug": "krajnee-v-russkom-jazyke-chto-eto-znachit",
+    "title": "\"Крайнее\" в русском языке: что это значит",
+    "intro": "Мы не всегда правильно понимаем смысл этого приставки и часто путаемся между словами «крайний» и «предельный». Разбирайтесь вместе с нами!",
+    "image": "images\\preview-krajnee-v-russkom-jazyke-chto-eto-znachit.webp"
+  },
+  {
+    "slug": "kuda-poehat-zimoj-chtoby-bylo-teplo-i-mozhno-bylo-kupatsja",
+    "title": "Куда поехать зимой, чтобы было тепло и можно было купаться",
+    "intro": "Несколько направлений для тех, кто не представляет свою жизнь без солнца, моря или океана даже в новогоднюю пору.",
+    "image": "images\\preview-kuda-poehat-zimoj-chtoby-bylo-teplo-i-mozhno-bylo-kupatsja.webp"
+  },
+  {
+    "slug": "kurs-dollara-v-ligovskom-spb",
+    "title": "Курс доллара в Лиговском, СПб",
+    "intro": "На днях я проезжал по улице Лиговского (СПБ) и обратил внимание на то, что все обменные пункты предлагают совершенно разные курсы валют. Разница между ними была колоссальной! Например, один пункт обмена предлагал продать доллар за 38 рублей, а другой — только-только за 41 рубль.",
+    "image": "images\\preview-kurs-dollara-v-ligovskom-spb.webp"
+  },
+  {
+    "slug": "kurs-evro-k-tenge-v-mig-almaty",
+    "title": "Курс евро к тенге в Миг (Алматы)",
+    "intro": "Как вы знаете, я живу уже почти год в Казахстане, а точнее — в Алматинском офисе компании МиГ. Эта компания является одним из крупнейших поставщиков финансовых услуг для населения нашей страны. С ее помощью можно не только получить кредит или рассрочку на покупку чего-то нужного, но и узнать текущие курсы различных валют, которые мы имеем право обменять без каких либо ограничений по сумме и количеству раз в год.",
+    "image": "images\\preview-kurs-evro-k-tenge-v-mig-almaty.webp"
+  },
+  {
+    "slug": "kurs-evro-v-bankah",
+    "title": "Курс евро в банках",
+    "intro": "В этой статье мы расскажем вам о том, как узнать текущий курс обмена рубли на евро и какие условия действуют при этом во всех крупных российских банках. Курс будет актуален для операций покупки наличных рублей за евро.",
+    "image": "images\\preview-kurs-evro-v-bankah.webp"
+  },
+  {
+    "slug": "lavplanet-sajt-znakomstv-chto-o-nem-govorjat-polzovateli",
+    "title": "LavPlanet — сайт знакомств: что о нём говорят пользователи",
+    "intro": "LavPlanet – это популярный российский сайт для поиска друзей, партнеров и второй половинки в интернете. За время своей работы он успел собрать множество отзывов пользователей (как положительных так и отрицательных), которые помогут вам принять решение об использовании этого сервиса или же не использовать его вовсе. Мы собрали самые интересные из них на сайте Otzovik.com. ",
+    "image": "images\\preview-lavplanet-sajt-znakomstv-chto-o-nem-govorjat-polzovateli.webp"
+  },
+  {
+    "slug": "mozhno-li-davat-bezalkogolnoe-pivo-i-protein-detjam-12-let",
+    "title": "Можно ли давать безалкогольное пиво и протеин детям 12 лет?",
+    "intro": "Ответ на этот вопрос знают педиатры. Но если вы не хотите разбираться в тонкостях науки — просто читайте!",
+    "image": "images\\preview-mozhno-li-davat-bezalkogolnoe-pivo-i-protein-detjam-12-let.webp"
+  },
+  {
+    "slug": "nakopitelnyj-schet-sberbanka-kak-snjat-dengi-i-chto-govorjat-klienty",
+    "title": "Накопительный счёт Сбербанка: как снять деньги и что говорят клиенты",
+    "intro": "Положите на него всё лишнее или только часть средств? Или вообще не кладите ничего — вы ведь можете снимать когда захотите! Но давайте разберёмся в условиях этого депозита поподробнее.",
+    "image": "images\\preview-nakopitelnyj-schet-sberbanka-kak-snjat-dengi-i-chto-govorjat-klienty.webp"
+  },
+  {
+    "slug": "norma-davlenija-dlja-zhenschin-po-vozrastu-tablitsa",
+    "title": "Норма давления для женщин по возрасту: таблица",
+    "intro": "Нормы артериального давления у пожилых людей отличаются. Также важно учитывать индивидуальные особенности организма и уровень физической активности.",
+    "image": "images\\preview-norma-davlenija-dlja-zhenschin-po-vozrastu-tablitsa.webp"
+  },
+  {
+    "slug": "norma-sahara-v-krovi-dlja-zhenschin-i-muzhchin-po-vozrastu",
+    "title": "Норма сахара в крови для женщин и мужчин по возрасту",
+    "intro": "Насколько высокими могут быть показатели после еды или натощак без риска развития диабета?",
+    "image": "images\\preview-norma-sahara-v-krovi-dlja-zhenschin-i-muzhchin-po-vozrastu.webp"
+  },
+  {
+    "slug": "o-chem-govorili-tramp-i-zelenskij-segodnja",
+    "title": "О чём говорили Трамп и Зеленский сегодня",
+    "intro": "Одному из глав государств понравился приговор судьи в отношении его сына. Другой рассказал о своём «уникальном» опыте борьбы за независимость страны.",
+    "image": "images\\preview-o-chem-govorili-tramp-i-zelenskij-segodnja.webp"
+  },
+  {
+    "slug": "otvet-lenivets",
+    "title": "Ответ: Ленивец",
+    "intro": "Мир полон удивительных и интересных явлений природы — необъяснимых для человека вещей. Одним из них является существование самых неторопливых существ на нашей планете — ленивцев! Давайте узнаем о них побольше?",
+    "image": "images\\preview-otvet-lenivets.webp"
+  },
+  {
+    "slug": "otzyvy-klientov-i-sotrudnikov-o-kreditnoj-karte-sberbanka-kuhne-krasnoe-i-beloe-refinansirovanii-v-sberbanke",
+    "title": "Отзывы клиентов и сотрудников о кредитной карте Сбербанка, кухне «Красное и Белое», рефинансировании в Сбербанке",
+    "intro": "Что пишут люди на сайте отзывов о самых разных продуктах? Мы выбрали самые интересные комментарии за последнюю неделю — об условиях покупки товаров по картам банка, работе кухонь быстрого питания, а также впечатлениях пользователей после попытки получить кредит в банке или переоформить его у другого поставщика услуг.",
+    "image": "images\\preview-otzyvy-klientov-i-sotrudnikov-o-kreditnoj-karte-sberbanka-kuhne-krasnoe-i-beloe-refinansirovanii-v-sberbanke.webp"
+  },
+  {
+    "slug": "otzyvy-klientov-psb-banka-o-vkladah-dlja-fizicheskih-lits",
+    "title": "Отзывы клиентов ПСБ банка о вкладах для физических лиц",
+    "intro": "Банк предлагает депозиты на разные суммы и со сроками размещения под 12% годовых. Как у них дела?",
+    "image": "images\\preview-otzyvy-klientov-psb-banka-o-vkladah-dlja-fizicheskih-lits.webp"
+  },
+  {
+    "slug": "otzyvy-o-preparate-sirdalud",
+    "title": "Отзывы о препарате Сирдалуд",
+    "intro": "Люди рассказывают об использовании препарата для снятия мышечного спазма и уменьшения боли в спине.",
+    "image": "images\\preview-otzyvy-o-preparate-sirdalud.webp"
+  },
+  {
+    "slug": "otzyvy-o-sajte-com",
+    "title": "Отзывы о сайте com",
+    "intro": "Что говорят пользователи? Какая у сайта репутация и насколько он надёжен в работе. Выбирайте только проверенные сервисы!",
+    "image": "images\\preview-otzyvy-o-sajte-com.webp"
+  },
+  {
+    "slug": "otzyvy-o-sajte-znakomstv-bez-kompleksov",
+    "title": "Отзывы о сайте знакомств «Без комплексов»",
+    "intro": "Пользователи рассказывают про удобство интерфейса, скорость регистрации, простоту общения и другие преимущества сервиса для поиска второй половины. А также делятся личным опытом использования сайта в надежде найти пару по душе.",
+    "image": "images\\preview-otzyvy-o-sajte-znakomstv-bez-kompleksov.webp"
+  },
+  {
+    "slug": "pochemu-greetsja-iphone-13-pro",
+    "title": "Почему греется iPhone 13 Pro",
+    "intro": "Несколько простых способов проверить девайс на предмет проблем.",
+    "image": "images\\preview-pochemu-greetsja-iphone-13-pro.webp"
+  },
+  {
+    "slug": "pochemu-igra-roblox-lagaet",
+    "title": "Почему игра Roblox лагает?",
+    "intro": "Лагают только у вас? Или проблема в самом приложении?",
+    "image": "images\\preview-pochemu-igra-roblox-lagaet.webp"
+  },
+  {
+    "slug": "pochemu-jutub-ne-rabotaet-na-kompjutere",
+    "title": "Почему Ютуб не работает на компьютере",
+    "intro": "Мы уже рассказывали о том, как решить проблему с YouTube-видео на Android (если они зависают или вообще пропадают). Сегодня поговорим об аналогичной проблеме в браузере Windows/Mac OS X/Linux — что делать если видео «не воспроизводятся». Начнем со списка самых распространенных причин возникновения данной ситуации. :)",
+    "image": "images\\preview-pochemu-jutub-ne-rabotaet-na-kompjutere.webp"
+  },
+  {
+    "slug": "pochemu-merznet-levaja-noga-dazhe-kogda-zharko",
+    "title": "Почему мерзнет левая нога, даже когда жарко",
+    "intro": "И как это исправить?",
+    "image": "images\\preview-pochemu-merznet-levaja-noga-dazhe-kogda-zharko.webp"
+  },
+  {
+    "slug": "pochemu-merznut-nogi-dazhe-doma",
+    "title": "Почему мерзнут ноги даже дома",
+    "intro": "Почти у каждого бывают ситуации, когда на работе или в дороге пальцы ног похолодали и затекли, а затем стало так же холодно и дома, хотя радиатор работает как часы. И почему-то это обычно происходит только тогда, когда вы надеваете тёплые носки. Как выяснилось, причин этому может быть несколько. А вот что можно сделать, чтобы избавиться от неприятных ощущений.",
+    "image": "images\\preview-pochemu-merznut-nogi-dazhe-doma.webp"
+  },
+  {
+    "slug": "pochemu-na-android-segodnja-ne-rabotaet-youtube-i-ne-rabotaet-mobilnyj-internet",
+    "title": "Почему на Android сегодня не работает YouTube и не работает мобильный интернет",
+    "intro": "Наверное, кто-то ошибся в настройках или что-то сломалось у Google. В любом случае можно сделать несколько простых шагов для решения этих проблем.",
+    "image": "images\\preview-pochemu-na-android-segodnja-ne-rabotaet-youtube-i-ne-rabotaet-mobilnyj-internet.webp"
+  },
+  {
+    "slug": "pochemu-ne-gruzitsja-tiktok",
+    "title": "Почему не грузится TikTok",
+    "intro": "Если у вас нет времени читать, то пропустите первые три абзаца и переходите к решению вашей проблемы!",
+    "image": "images\\preview-pochemu-ne-gruzitsja-tiktok.webp"
+  },
+  {
+    "slug": "pochemu-ne-otkryvajutsja-sajty-s-domenom-com",
+    "title": "Почему не открываются сайты с доменом .com",
+    "intro": "В зависимости от ситуации можно выбрать несколько вариантов решения проблемы.",
+    "image": "images\\preview-pochemu-ne-otkryvajutsja-sajty-s-domenom-com.webp"
+  },
+  {
+    "slug": "pochemu-ne-podkljuchaetsja-vpn",
+    "title": "Почему не подключается VPN",
+    "intro": "Проверьте несколько параметров на телефоне или планшете.",
+    "image": "images\\preview-pochemu-ne-podkljuchaetsja-vpn.webp"
+  },
+  {
+    "slug": "pochemu-ne-rabotaet-instagram-i-internet-pri-ispolzovanii-vpn",
+    "title": "Почему не работает Instagram и интернет при использовании VPN",
+    "intro": "В комментариях — советы по решению этой проблемы.",
+    "image": "images\\preview-pochemu-ne-rabotaet-instagram-i-internet-pri-ispolzovanii-vpn.webp"
+  },
+  {
+    "slug": "pochemu-ne-rabotaet-vpn-na-iphone-i-android-segodnja",
+    "title": "Почему не работает VPN на iPhone и Android сегодня",
+    "intro": "Проблема затрагивает пользователей по всему миру. Узнайте, как её решить.",
+    "image": "images\\preview-pochemu-ne-rabotaet-vpn-na-iphone-i-android-segodnja.webp"
+  },
+  {
+    "slug": "pochemu-ne-rabotaet-vpn-na-kompjutere",
+    "title": "Почему не работает VPN на компьютере",
+    "intro": "Несколько простых шагов помогут исправить ситуацию.",
+    "image": "images\\preview-pochemu-ne-rabotaet-vpn-na-kompjutere.webp"
+  },
+  {
+    "slug": "pochemu-ne-rabotaet-vpn-v-2025-godu",
+    "title": "Почему не работает VPN в 2025 году",
+    "intro": "Осторожно! Это руководство может привести к тому, что вы начнете читать о технических проблемах и решениях для их устранения. Если вам так скучно — пропустите этот раздел или закройте вкладку. Но если у вас есть реальная проблема, то эта статья точно поможет её решить. Итак, почему же ваш VPN-клиент просто перестал работать? Вот несколько возможных причин.",
+    "image": "images\\preview-pochemu-ne-rabotaet-vpn-v-2025-godu.webp"
+  },
+  {
+    "slug": "pochemu-ne-rabotaet-whatsapp-youtube-i-drugie-servisy-v-rossii-i-kak-bez-nih-zhit",
+    "title": "Почему не работает WhatsApp, YouTube и другие сервисы в России, и как без них жить",
+    "intro": "Попробуйте Telegram вместо WhatsApp, «ВКонтакте» или Facebook* Lite — и ещё несколько способов оставаться на связи даже при отключении интернета.",
+    "image": "images\\preview-pochemu-ne-rabotaet-whatsapp-youtube-i-drugie-servisy-v-rossii-i-kak-bez-nih-zhit.webp"
+  },
+  {
+    "slug": "pochemu-ne-zapuskaetsja-csgo-posle-obnovlenija-v-steam",
+    "title": "Почему не запускается CS:GO после обновления в Steam",
+    "intro": "Достаточно перезапустить программу или выполнить несколько простых действий.",
+    "image": "images\\preview-pochemu-ne-zapuskaetsja-csgo-posle-obnovlenija-v-steam.webp"
+  },
+  {
+    "slug": "pochemu-opuhaet-veko-nad-glazom",
+    "title": "Почему опухает веко над глазом",
+    "intro": "Отек может появиться в результате аллергии или инфекции глаз. Но бывают и другие причины воспаления.",
+    "image": "images\\preview-pochemu-opuhaet-veko-nad-glazom.webp"
+  },
+  {
+    "slug": "pochemu-pischit-besperebojnik",
+    "title": "Почему пищит бесперебойник",
+    "intro": "Бесперебойники обеспечивают защиту вашего компьютера при отключении или скачках напряжения в сети питания. Но иногда устройство может начать издавать неприятный звуковой сигнал — так называемый «писк». Давайте разберемся почему это происходит и что делать в этой ситуации. ",
+    "image": "images\\preview-pochemu-pischit-besperebojnik.webp"
+  },
+  {
+    "slug": "pochemu-pri-golovnoj-boli-stoit-pit-magnij-i-chto-delat-pri-magnitnyh-burjah",
+    "title": "Почему при головной боли стоит пить магний и что делать при магнитных бурях",
+    "intro": "Поможет избавиться от неприятных ощущений в голове.",
+    "image": "images\\preview-pochemu-pri-golovnoj-boli-stoit-pit-magnij-i-chto-delat-pri-magnitnyh-burjah.webp"
+  },
+  {
+    "slug": "pochemu-shumit-holodilnik-beko",
+    "title": "Почему шумит холодильник Beko",
+    "intro": "Если у вас возникла проблема — найдите ответ в этой статье и устраните её самостоятельно или обратитесь к специалисту для ремонта техники.",
+    "image": "images\\preview-pochemu-shumit-holodilnik-beko.webp"
+  },
+  {
+    "slug": "pochemu-tak-silno-lagaet-roblox",
+    "title": "Почему так сильно лагает Roblox",
+    "intro": "Если игра не загружается или тормозит, выключите компьютер из розетки на пару минут — это может помочь. А если нет, то попробуйте другие способы устранения неполадок.",
+    "image": "images\\preview-pochemu-tak-silno-lagaet-roblox.webp"
+  },
+  {
+    "slug": "pochemu-temperatura-tela-358s-eto-normalno",
+    "title": "Почему температура тела 35,8°С — это нормально",
+    "intro": "Узнайте об основных причинах повышения температуры и способах её снижения.",
+    "image": "images\\preview-pochemu-temperatura-tela-358s-eto-normalno.webp"
+  },
+  {
+    "slug": "pochemu-toshnit-u-zhenschiny-3-prichiny",
+    "title": "Почему тошнит у женщины? 3 причины",
+    "intro": "Почти всегда есть логичное объяснение неприятному чувству.",
+    "image": "images\\preview-pochemu-toshnit-u-zhenschiny-3-prichiny.webp"
+  },
+  {
+    "slug": "pochemu-u-devochki-bolit-zhivot-i-kak-izbavitsja-ot-zhira",
+    "title": "Почему у девочки болит живот и как избавиться от жира",
+    "intro": "Если вы заметили изменения в питании или весе ребёнка — покажите её врачу!",
+    "image": "images\\preview-pochemu-u-devochki-bolit-zhivot-i-kak-izbavitsja-ot-zhira.webp"
+  },
+  {
+    "slug": "pochemu-v-discord-ne-slyshno-sobesednika-ili-zvuk",
+    "title": "Почему в Discord не слышно собеседника или звук",
+    "intro": "Попробуйте отключить режим «не беспокоить» и проверить системные настройки звука на компьютере и смартфоне.",
+    "image": "images\\preview-pochemu-v-discord-ne-slyshno-sobesednika-ili-zvuk.webp"
+  },
+  {
+    "slug": "pochemu-v-pustyne-zharko",
+    "title": "Почему в пустыне жарко",
+    "intro": "Все дело не только во времени суток.",
+    "image": "images\\preview-pochemu-v-pustyne-zharko.webp"
+  },
+  {
+    "slug": "pochemu-v-telegram-ne-slyshno-zvonok-i-ne-vidno-kto-zvonit",
+    "title": "Почему в Telegram не слышно звонок и не видно, кто звонит",
+    "intro": "Проверьте несколько простых вещей, чтобы исправить неполадку.",
+    "image": "images\\preview-pochemu-v-telegram-ne-slyshno-zvonok-i-ne-vidno-kto-zvonit.webp"
+  },
+  {
+    "slug": "pochemu-v-telegramme-ne-gruzjatsja-prilozhenija-kruzhki-i-drugie-materialy",
+    "title": "Почему в Телеграмме не грузятся приложения, кружки и другие материалы",
+    "intro": "Проблемы могут возникнуть по нескольким причинам — разберёмся со всеми ними.",
+    "image": "images\\preview-pochemu-v-telegramme-ne-gruzjatsja-prilozhenija-kruzhki-i-drugie-materialy.webp"
+  },
+  {
+    "slug": "pochemu-veko-opuhaet-posle-sna",
+    "title": "Почему веко опухает после сна",
+    "intro": "Это может свидетельствовать как об усталости и недосыпе, так и более серьёзных проблемах со здоровьем.",
+    "image": "images\\preview-pochemu-veko-opuhaet-posle-sna.webp"
+  },
+  {
+    "slug": "pod-chto-mozhno-nadet-vse",
+    "title": "Под что можно надеть всё?",
+    "intro": "Порой бывает сложно подобрать одежду и аксессуар к какому-либо наряду или предмету гардероба (например, сумке). Я всегда стараюсь выбирать вещи так, чтобы они не только были красивы сами по себе, но еще и могли использоваться в различных ситуациях. В этом посте я хочу поделиться некоторыми советами о том, как выбрать подходящую вещь для дополнения вашего образа. ",
+    "image": "images\\preview-pod-chto-mozhno-nadet-vse.webp"
+  },
+  {
+    "slug": "podkljuchenie-alisy-k-mobilnomu-i-abstraktnoe-myshlenie",
+    "title": "Подключение Алисы к мобильному и абстрактное мышление",
+    "intro": "Как бы там ни было, но в последнее время я стал замечать всё больше устройств без каких-либо экранов — это умные колонки вроде Google Home или Яндекс Станции. Так как у меня уже есть несколько таких колонок (я тестирую их для обзоров), то решил попробовать все три варианта подключения одной из них к интернету. Подключал через домашний роутер Wi‑Fi, при помощи внешнего модема на базе сотовой связи LTE и непосредственно через смартфон по USB.",
+    "image": "images\\preview-podkljuchenie-alisy-k-mobilnomu-i-abstraktnoe-myshlenie.webp"
+  },
+  {
+    "slug": "pogoda-v-voronezhe-i-novosibirske-rp5-na-nedelju",
+    "title": "Погода в Воронеже и Новосибирске РП5 на неделю",
+    "intro": "Прогноз для региональных столиц — через 12 часов. Обязательно проверьте его перед выходом из дома! Впрочем, не только прогноз. Наша рубрика «Погода» уже стала практически ежедневной, ведь мы знаем, как важен своевременный доступ к информации о погодных условиях. Сегодня предлагаем вам посмотреть наш обзор на предстоящую неделю во всех крупных городах России. Итак, начнём…",
+    "image": "images\\preview-pogoda-v-voronezhe-i-novosibirske-rp5-na-nedelju.webp"
+  },
+  {
+    "slug": "pogodnyj-prognoz-na-3-dnja-petropavlovsk",
+    "title": "Погодный прогноз на 3 дня: Петропавловск",
+    "intro": "Точный и подробнейший прогноз для всех городов России — в нашей ежедневной рубрике. Сегодня у нас Петропавловск-Камчатский! В этом городе находится знаменитый Домовенок Кузька из мультфильмов про Машу и Медведя, а также множество удивительных природных красот. Узнайте всё об особенностях климата этого города, чтобы спланировать свой отдых или просто узнать, что вас ждет за окном завтра утром.",
+    "image": "images\\preview-pogodnyj-prognoz-na-3-dnja-petropavlovsk.webp"
+  },
+  {
+    "slug": "prilozhenie-otzyvy-o-rynke-i-magnit",
+    "title": "Приложение «Отзывы о рынке» и «Магнит»",
+    "intro": "Несколько месяцев назад мы писали про замечательное приложение под названием “Рынок”, которое позволяет оценить качество работы магазинов в вашем городе или поселке на основе отзывов реальных покупателей. Теперь же появился новый сервис, который позволит вам поделиться своим мнением не только со всеми желающими узнать об этом месте больше, но и получить небольшое вознаграждение за свою активность! А также есть возможность посмотреть свежие новости сети супермаркетов “Макс”. Начнем по порядку… :)",
+    "image": "images\\preview-prilozhenie-otzyvy-o-rynke-i-magnit.webp"
+  },
+  {
+    "slug": "primer-otveta-na-negativnyj-otzyv-klienta",
+    "title": "Пример ответа на негативный отзыв клиента",
+    "intro": "В предыдущей статье мы говорили о том, что важно прикладывать усилия для получения положительных клиентовских отзывов. Но бывают ситуации когда вам пишут в комментариях или отправляют письмо с недовольством по поводу вашего продукта/услуги. Что делать? Как реагировать? ",
+    "image": "images\\preview-primer-otveta-na-negativnyj-otzyv-klienta.webp"
+  },
+  {
+    "slug": "prognoz-kursa-dollara-ot-ekspertov-i-analitikov",
+    "title": "Прогноз курса доллара от экспертов и аналитиков",
+    "intro": "Свежий обзор ситуации в мировой экономике и краткосрочные перспективы американской валюты.",
+    "image": "images\\preview-prognoz-kursa-dollara-ot-ekspertov-i-analitikov.webp"
+  },
+  {
+    "slug": "prognoz-pogody-na-segodnja-i-zavtra-svezhij-prognoz-tsen-na-poljus-zolota",
+    "title": "Прогноз погоды на сегодня и завтра, свежий прогноз цен на Полюс Золота",
+    "intro": "В Москве ожидается морозец, в Санкт-Петербурге — прохладный дождь. А вот цены на золото снова поползли вверх…",
+    "image": "images\\preview-prognoz-pogody-na-segodnja-i-zavtra-svezhij-prognoz-tsen-na-poljus-zolota.webp"
+  },
+  {
+    "slug": "prognoz-pogody-v-petropavlovske-i-moskve-na-10-dnej",
+    "title": "Прогноз погоды в Петропавловске и Москве на 10 дней",
+    "intro": "Если вы планировали поездку за город или долгожданный выходной — обязательно посмотрите этот пост!",
+    "image": "images\\preview-prognoz-pogody-v-petropavlovske-i-moskve-na-10-dnej.webp"
+  },
+  {
+    "slug": "putin-govorit-chto-on-zdes",
+    "title": "Путин говорит, что он здесь",
+    "intro": "Если вы в этом году не были на пляже или у костра и соскучились по летнему настроению — это для вас. Впрочем, если всё наоборот тоже подойдёт.",
+    "image": "images\\preview-putin-govorit-chto-on-zdes.webp"
+  },
+  {
+    "slug": "raspisanie-avtobusa-163-v-minske",
+    "title": "Расписание автобуса №163 в Минске",
+    "intro": "Когда я только приехал жить в Москву и был еще совсем зеленым новичком здесь, мне было сложно разобраться со всеми видами городского транспорта. Поэтому сразу же начал пользоваться сервисом «Яндекс Расписания» — на нем все просто и понятно для любого человека! Недавно запустили его также и в Беларуси, поэтому решил поделиться им с вами! ;)",
+    "image": "images\\preview-raspisanie-avtobusa-163-v-minske.webp"
+  },
+  {
+    "slug": "raspisanie-avtobusov-velikij-novgorod-kemerovo-nizhnij-novgorod-metro-chudovo-i-drugie",
+    "title": "Расписание автобусов: Великий Новгород, Кемерово, Нижний Новгород, Метро, Чудово и другие",
+    "intro": "Вчера мы обсуждали проблемы с железной дорогой в нашей стране, а сегодня посмотрим на то как обстоят дела у общественного транспорта внутри городов-миллионников (и не только). Расскажем о том где узнать расписание движения городского автотранспорта без привязки к конкретной остановке или маршруту. ",
+    "image": "images\\preview-raspisanie-avtobusov-velikij-novgorod-kemerovo-nizhnij-novgorod-metro-chudovo-i-drugie.webp"
+  },
+  {
+    "slug": "raspisanie-gorodskih-avtobusov-v-grodno-i-drugih-gorodah",
+    "title": "Расписание городских автобусов в Гродно и других городах",
+    "intro": "Поездка на общественном транспорте — самый дешевый способ передвигаться по городу или поселку (по крайней мере так было раньше). В последнее время стоимость проезда поднимается все выше и выше, поэтому многие люди предпочитают ездить не на трамвае или метро, а на маршрутке. Маршрутка — это полукоммерческий вид общественного транспорта, который представляет собой минивэн-автобус для перевозки пассажиров вдоль одного из установленных маршрутов города. ",
+    "image": "images\\preview-raspisanie-gorodskih-avtobusov-v-grodno-i-drugih-gorodah.webp"
+  },
+  {
+    "slug": "retsepty-krevetki-chechevitsa-i-kuritsa",
+    "title": "Рецепты: креветки, чечевица и курица",
+    "intro": "Креветка в сочетании с чечёвицей — это блюдо для любителей морепродуктов, а вот курицу можно добавить по желанию или вовсе исключить из состава ингредиентов. Всё зависит только от ваших вкусовых предпочтений!",
+    "image": "images\\preview-retsepty-krevetki-chechevitsa-i-kuritsa.webp"
+  },
+  {
+    "slug": "skolko-stoit-bitkoin-i-evro-v-rubljah-v-2025-godu",
+    "title": "Сколько стоит биткоин и евро в рублях в 2025 году?",
+    "intro": "Мы сделали математические вычисления для криптовалюты и фиатной валюты — чтобы узнать примерную цену за два года или более.",
+    "image": "images\\preview-skolko-stoit-bitkoin-i-evro-v-rubljah-v-2025-godu.webp"
+  },
+  {
+    "slug": "skolko-stoit-bitkoin-na-segodnja",
+    "title": "Сколько стоит биткоин на сегодня?",
+    "intro": "Узнайте текущий курс криптовалюты в реальном времени — не выходя из дома.",
+    "image": "images\\preview-skolko-stoit-bitkoin-na-segodnja.webp"
+  },
+  {
+    "slug": "solnechnoe-zatmenie-i-jod-v-rossii",
+    "title": "Солнечное затмение и йод в России",
+    "intro": "Я не часто пишу про российские курорты — мне больше нравится путешествовать по миру, но бывают места, которые хочется посетить именно из-за необычных явлений природы или интересных историй о месте отдыха. Солнечное затмение над Россией (29 марта) и радонотерапия на Кавказе делают это место очень привлекательным для туристов. ",
+    "image": "images\\preview-solnechnoe-zatmenie-i-jod-v-rossii.webp"
+  },
+  {
+    "slug": "sozdanie-akkaunta-na-sajte",
+    "title": "Создание аккаунта на сайте",
+    "intro": "Создать учётную запись можно в любом сервисе или приложении Google — вам понадобится только ваш номер телефона и адрес электронной почты. Вот как это сделать правильно.",
+    "image": "images\\preview-sozdanie-akkaunta-na-sajte.webp"
+  },
+  {
+    "slug": "stiralnaja-mashina-i-holodilnik-rejting-luchshih-nadezhnyh-i-nedorogih-modelej",
+    "title": "«Стиральная машина» и «Холодильник»: рейтинг лучших надежных и недорогих моделей",
+    "intro": "Мы выбрали три десятка самых надёжных и доступных по цене стиральных машин и холодильников в России.",
+    "image": "images\\preview-stiralnaja-mashina-i-holodilnik-rejting-luchshih-nadezhnyh-i-nedorogih-modelej.webp"
+  },
+  {
+    "slug": "tam-gde-ne-byvaet-snega-serial-2021-goda-o-kotorom-vse-govorjat",
+    "title": "«Там, где не бывает снега» — сериал 2021 года, о котором все говорят",
+    "intro": "Фильм нашел своего зрителя в России благодаря интернет-мемам и неожиданным поисковым запросам.",
+    "image": "images\\preview-tam-gde-ne-byvaet-snega-serial-2021-goda-o-kotorom-vse-govorjat.webp"
+  },
+  {
+    "slug": "v-gorode-gde-holodno-dazhe-letom-snimali-holodnoe-leto",
+    "title": "В городе, где холодно даже летом, снимали «Холодное лето»",
+    "intro": "Узнайте о необычном сюжете фильма, в котором главную роль сыграла Татьяна Талызина. И о том, как задолго до выхода картины режиссёры готовились к съёмкам на Кавказе.",
+    "image": "images\\preview-v-gorode-gde-holodno-dazhe-letom-snimali-holodnoe-leto.webp"
+  },
+  {
+    "slug": "v-kakom-rajone-moskvy-samye-dorogie-i-samye-deshevye-kvartiry",
+    "title": "В каком районе Москвы самые дорогие и самые дешевые квартиры",
+    "intro": "Узнайте, сколько стоит квадратный метр в центре города и на окраинах.",
+    "image": "images\\preview-v-kakom-rajone-moskvy-samye-dorogie-i-samye-deshevye-kvartiry.webp"
   }
 ]
