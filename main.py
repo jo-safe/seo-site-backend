@@ -92,7 +92,8 @@ def get_random_articles(count: int = 9, theme: str = Query(None), except_article
 
     for a in chosen:
         image = a.get("image")
-        if not image or not os.path.exists(os.path.join(BASE_DIR, image.replace("/", os.sep))):
+        #if not image or not os.path.exists(os.path.join(BASE_DIR, image.replace("/", os.sep))):
+        if not image:
             image = "images/default.jpg"
         else:
             image = "/" + image.replace("\\", "/").lstrip("/")
