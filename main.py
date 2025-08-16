@@ -96,7 +96,7 @@ def get_random_articles(count: int = 9, theme: str = Query(None), except_article
         if not image:
             image = "images/default.jpg"
         else:
-            image = "/" + image.replace("\\", "/").lstrip("/")
+            image = image.replace("\\", "/").lstrip("/")
 
         result.append({
             "slug": a["slug"],
