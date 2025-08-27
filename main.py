@@ -19,9 +19,14 @@ ARTICLES_JSON = os.path.join(DATA_DIR, "articles.json")
 THEMES_JSON = os.path.join(DATA_DIR, "themes.json")
 RECENT_JSON = os.path.join(DATA_DIR, "recent.json")
 
+origins = [
+    "https://trendlist.ru",
+    "https://www.trendlist.ru"
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
