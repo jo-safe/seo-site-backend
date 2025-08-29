@@ -21,7 +21,9 @@ RECENT_JSON = os.path.join(DATA_DIR, "recent.json")
 
 origins = [
     "https://trendlist.ru",
-    "https://www.trendlist.ru"
+    "https://www.trendlist.ru",
+    "http://trendlist.ru",
+    "http://www.trendlist.ru"
 ]
 
 app.add_middleware(
