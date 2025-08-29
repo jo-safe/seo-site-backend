@@ -49,6 +49,9 @@ def get_all_articles():
         logger.error(f"Ошибка чтения articles.json: {e}")
         return []
 
+@app.get("/cors-test")
+def cors_test(request: Request):
+    return JSONResponse({"origin": request.headers.get("origin")})
 
 @app.get("/api/themes")
 async def get_themes():
