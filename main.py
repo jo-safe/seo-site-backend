@@ -1,9 +1,10 @@
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 import os
 import json
+import uvicorn
 import random
 import logging
 
@@ -195,3 +196,7 @@ def get_similar_articles(slug: str, limit: int = 3, except_articles: list[int] =
         })
 
     return result
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))  # берем PORT от Railway, если нет — 8000
+    uvicorn.run(app, host="0.0.0.0", port=port)
